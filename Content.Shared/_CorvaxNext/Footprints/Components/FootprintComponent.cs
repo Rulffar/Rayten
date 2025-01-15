@@ -1,5 +1,6 @@
 using Content.Shared.Chemistry.Components;
 using Robust.Shared.GameStates;
+using Robust.Shared.Serialization;
 
 namespace Content.Shared._CorvaxNext.Footprints.Components;
 
@@ -18,6 +19,6 @@ public sealed partial class FootprintComponent : Component
     [DataField]
     public string SolutionName = "step";
 
-    [DataField]
+    [AutoNetworkedField]
     public Entity<SolutionComponent>? Solution;
 }
