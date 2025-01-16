@@ -29,13 +29,13 @@ CHANGELOG_RSS_KEY = os.environ.get("CHANGELOG_RSS_KEY")
 
 # Change these to suit your server settings
 # https://docs.fabfile.org/en/stable/getting-started.html#run-commands-via-connections-and-run
-SSH_HOST = "https://changelog.vanilla-station.ru/"
+SSH_HOST = "changelog.vanilla-station.ru"
 SSH_USER = "changelog-rss"
 SSH_PORT = 22
 RSS_FILE = "changelog.xml"
 XSL_FILE = "stylesheet.xsl"
 HOST_KEYS = [
-    "AAAAC3NzaC1lZDI1NTE5AAAAIOBpGO/Qc6X0YWuw7z+/WS/65+aewWI29oAyx+jJpCmh"
+    "AAAAC3NzaC1lZDI1NTE5AAAAIHL4N8yo6hTJRiMj9EGS6BejjSF0LXxXu/e6+MF3fWqR"
 ]
 
 # RSS feed parameters, change these
