@@ -185,7 +185,7 @@ def send_to_discord(entries: Iterable[ChangelogEntry]) -> None:
     message_text = message_content.getvalue()
     if len(message_text) > 0:
         print("Sending final changelog to discord")
-        content.seek(0) # Corvax
+        message_content.seek(0)  # Corvax
         for chunk in iter(lambda: content.read(2000), ''): # Corvax: Split big changelogs messages
             send_discord(chunk)
 
