@@ -169,6 +169,7 @@ namespace Content.Server.Entry
                 IoCManager.Resolve<IConnectionManager>().PostInit();
 
                 IoCManager.Resolve<WebhookBans>().Initialize();
+                IoCManager.Resolve<MultiServerKickManager>().Initialize();
             }
         }
 
