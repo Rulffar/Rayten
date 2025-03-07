@@ -1,25 +1,15 @@
 - type: npcFaction
   id: Dragon
   hostile:
-<<<<<<< HEAD
-    - NanoTrasen
-    - CentComm
-    - Syndicate
-    - Xeno
-    - PetsNT
-    - Zombie
-    - Revolutionary
-    - AllHostile
-=======
   - NanoTrasen
   - Syndicate
   - Xeno
+  - CentComm
   - PetsNT
   - Zombie
   - Revolutionary
   - AllHostile
   - Wizard
->>>>>>> 9ce37352961ef919b7c75e45e05b98960b54db4e
 
 - type: npcFaction
   id: NanoTrasen
@@ -152,6 +142,7 @@
   id: Wizard
   hostile:
   - NanoTrasen
+  - CentComm
   - Dragon
   - SimpleHostile
   - Syndicate
