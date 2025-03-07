@@ -206,6 +206,7 @@
     - Instruments
     - Equipment
     - FauxTiles
+    - MemoryShieldImplanters # Rayten
   - type: EmagLatheRecipes
     emagDynamicPacks:
     - SecurityAmmo

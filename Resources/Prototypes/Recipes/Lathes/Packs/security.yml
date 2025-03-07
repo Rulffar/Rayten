@@ -129,3 +129,8 @@
   - WeaponLaserCannon
   - WeaponLaserCarbine
   - WeaponXrayCannon
+  
+- type: latheRecipePack
+  id: MemoryShieldImplanters # Rayten
+  recipes:
+  - MemoryShieldImplanter
