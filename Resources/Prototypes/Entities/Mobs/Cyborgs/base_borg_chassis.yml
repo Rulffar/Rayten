@@ -7,7 +7,7 @@
   abstract: true
   components:
   - type: RequiresSkill
-    RequiresInstrumentationLevel: 3
+    RequiresEngineeringLevel: 3
     NeedCraftableSkills: true
   - type: Skill
     RangeWeaponLevel: 3
@@ -17,7 +17,7 @@
     EngineeringLevel: 3
     BuildingLevel: 3
     ResearchLevel: 3
-    InstrumentationLevel: 3
+    Atmosphere: true
     Piloting: true
     MusInstruments: true
     Botany: true
