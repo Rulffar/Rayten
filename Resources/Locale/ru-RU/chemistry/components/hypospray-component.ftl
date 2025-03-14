@@ -21,4 +21,5 @@ hypospray-verb-mode-inject-mobs-only = Теперь вы можете набир
 hypospray-cant-inject = Нельзя сделать инъекцию в { $target }!
 
 ## Vanilla Station
+
 hypospray-component-inject-target-protected = Нельзя сделать инъекцию, так как он(а) защищен(а) броней!
