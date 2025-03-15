@@ -4,3 +4,4 @@ ent-ClothingBeltSheriffSheath = сабельные ножны шерифа
     .desc = Практичность, прочность, сабля точно не окажется в вашей ноге.
 ent-ClothingBeltWhiteSheathFilled = белые сабельные ножны
     .desc = Стиль, блеск, всё для лучших сабель во вселенной.
+    .suffix = Filled

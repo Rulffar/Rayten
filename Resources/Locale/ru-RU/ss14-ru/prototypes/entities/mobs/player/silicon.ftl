@@ -73,3 +73,5 @@ ent-PlayerBorgDerelict = { ent-BorgChassisDerelict }
 ent-PlayerBorgDerelictGhostRole = { ent-PlayerBorgDerelict }
     .suffix = Роль призрака
     .desc = { ent-PlayerBorgDerelict.desc }
+ent-ActionShowAlertKey = AlertKey Interface
+    .desc = View a Alert Key Interface.
