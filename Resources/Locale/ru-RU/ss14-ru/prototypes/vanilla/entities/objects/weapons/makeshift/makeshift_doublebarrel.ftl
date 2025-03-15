@@ -1,2 +1,2 @@
-ent-WeaponShotgunDoubleBarreledMakeshift = makeshift double-barreled shotgun
-    .desc = Feel like a doomguy, unfortunately without hands..
+ent-WeaponShotgunDoubleBarreledMakeshift = Сделанный наспех двуствольный дробовик
+    .desc = Почувствуйте себя как думгай, но к сожалению, без рук..

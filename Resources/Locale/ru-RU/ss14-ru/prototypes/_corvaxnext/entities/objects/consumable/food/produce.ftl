@@ -1,4 +1,4 @@
-ent-FoodCucumber = cucumber
-    .desc = PHAHAHHAHA cu-cu-cu-cu-mbe-er
-ent-FoodShashamber = shashamber
-    .desc = what?
+ent-FoodCucumber = огурец
+    .desc = длинный и толстый...
+ent-FoodShashamber = что это?
+    .desc = у меня созрел вопрос...

@@ -1,24 +1,35 @@
-ent-MailRobustToolsSpam = Robust Toolbox - Special Offer!
-    .desc = An advertisement for the robust toolboxes.
-ent-MailNanotrasenSpam = Reasons to choose Nanotrasen!
-    .desc = An advertisement for the Nanotrasen.
-ent-MailSyndicateSpam = Reasons to choose The Syndicate!
-    .desc = An advertisement for the The Syndicate.
-ent-MailAlternativeDimensionSpam = Send reinforcements!
-    .desc = An official notice from... an alternate timeline?
-ent-MailNarsieCultSpam = The Children of Nar'Sie
-    .desc = A local cult is looking for recruits.
-ent-MailRageCageSpam = Do you want to fight?!
-    .desc = Advertisement for a local fighting club.
-ent-MailVoyageAdvertisementSpam = Join us on the maiden voyage!
-    .desc = Advertisement for a relaxing voyage.
-ent-MailScienceSpiderClanSpam = Tired of science blowing up?
-    .desc = Follow these simple steps to ensure it never happens again!
-ent-MailAllAccessSpam = FREE ALL AXCESS!!
-    .desc = Did you ever want free all access?!
-ent-MailCentcommRetributionSpam = NOTICE FROM NANOTRASN!!
-    .desc = An official notice from the CEO of Nanotrasn?!
-ent-MailEvilLizardSpam = DO NOT OPEN THIS MAIL
-    .desc = You have been cursed!
-ent-MailParentsNeedMoneySpam = Help mom and dad!
-    .desc = Parents in need of financial support.
+ent-MailRobustToolsSpam = Робастный набор инструментов - Специальное предложение!
+    .desc = Реклама робастных наборов инструментов.
+    
+ent-MailNanotrasenSpam = Причины выбрать Nanotrasen!
+    .desc = Реклама Nanotrasen.
+
+ent-MailSyndicateSpam = Причины выбрать Синдикат!
+    .desc = Реклама Синдиката.
+
+ent-MailAlternativeDimensionSpam = Отправьте подкрепление!
+    .desc = Официальное уведомление... из альтернативной временной линии?
+
+ent-MailNarsieCultSpam = Дети Нар'Си
+    .desc = Местный культ ищет новых рекрутов.
+
+ent-MailRageCageSpam = Хотите драться?!
+    .desc = Реклама местного клуба боевых искусств.
+
+ent-MailVoyageAdvertisementSpam = Присоединяйтесь к нашему первому рейсу!
+    .desc = Реклама для расслабляющего путешествия.
+
+ent-MailScienceSpiderClanSpam = Устали от взрывов в науке?
+    .desc = Следуйте этим простым шагам, чтобы это больше не повторилось!
+
+ent-MailAllAccessSpam = БЕСПЛАТНЫЙ ВСЕГДА ДОСТУП!!
+    .desc = Вы когда-нибудь хотели бесплатный доступ ко всему?!
+
+ent-MailCentcommRetributionSpam = УВЕДОМЛЕНИЕ ОТ NANOTRASEN!!
+    .desc = Официальное уведомление от генерального директора Nanotrasen?!
+
+ent-MailEvilLizardSpam = НЕ ОТКРЫВАЙТЕ ЭТУ ПОЧТУ
+    .desc = Вы прокляты!
+
+ent-MailParentsNeedMoneySpam = Помогите маме и папе!
+    .desc = Родители нуждаются в финансовой поддержке.

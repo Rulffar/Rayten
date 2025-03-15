@@ -1,8 +1,11 @@
-ent-PlushieLizardGrandTanaka = Grand-Tanaka plushie
-    .desc = An adorable stuffed toy that resembles a lizardperson. HandMade.
-ent-PlushieCentcomAliaZimova = Alia Zimova plushie
-    .desc = The OCC is a toy that smells of bureaucracy so strongly that you can already feel how paper reports wrap around you, ready to strangle you with their endless bureaucratic power. Well, shall we make another request for permission to breathe?
-ent-plushieUnaAkvanova = Una Akvanova plushe
-    .desc = Rumor has it that she is a backyard cosplayer...
-ent-PlushieZamiraBolshakova = Zamira Bolshakova plushie
-    .desc = if you listen closely you can hear very loud nothing
+ent-PlushieLizardGrandTanaka = Плюшевый Гранд-Танака
+    .desc = Очаровательная игрушка, напоминающая Унатха. Ручная работа.
+
+ent-PlushieCentcomAliaZimova = Плюшевый Алиа Зимова
+    .desc = Этот плюшевый игрушечный Центком так сильно пахнет бюрократией, что ты уже чувствуешь, как бумажные отчеты обвивают тебя, готовые задушить своей бесконечной бюрократической властью. Ну что, оформим еще один запрос на разрешение дышать?
+
+ent-plushieUnaAkvanova = Плюшевый Уна Акванова
+    .desc = Ходят слухи, что она косплеер космического ниндзи...
+
+ent-PlushieZamiraBolshakova = Плюшевый Замира Болшакова
+    .desc = Если прислушаться, можно услышать очень громкое "ничто".

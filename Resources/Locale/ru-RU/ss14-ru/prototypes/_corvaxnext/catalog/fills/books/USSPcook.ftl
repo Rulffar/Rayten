@@ -1,2 +1,2 @@
-ent-BookUSSPCook = Kopatuch. Let him cook
-    .desc = Kopatych is a legendary chef of the USSP
+ent-BookUSSPCook = Копатыч. Let him cook
+.desc = Копатыч — легендарный шеф-повар USSP

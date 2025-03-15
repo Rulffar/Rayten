@@ -1,6 +1,6 @@
-ent-Sledgehammer = sledgehammer
-    .desc = The perfect tool for wanton carnage.
-ent-Mjollnir = Mjollnir
-    .desc = A weapon worthy of a god, able to strike with the force of a lightning bolt. It crackles with barely contained energy.
-ent-SingularityHammer = Singularity Hammer
-    .desc = The pinnacle of close combat technology, the hammer harnesses the power of a miniaturized singularity to deal crushing blows.
+ent-Sledgehammer = кувалда
+    .desc = Идеальный инструмент для беспощадного разрушения.
+ent-Mjollnir = Мьёльнир
+    .desc = Оружие, достойное бога, способное наносить удары с силой молнии. Оно потрескивает от едва сдерживаемой энергии.
+ent-SingularityHammer = Молоты Сингулярности
+    .desc = Вершина технологий ближнего боя, молот использует силу миниатюрной сингулярности для нанесения разрушительных ударов.

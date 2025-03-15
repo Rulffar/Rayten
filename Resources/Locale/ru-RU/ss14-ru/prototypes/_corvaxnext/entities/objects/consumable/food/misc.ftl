@@ -1,4 +1,4 @@
-ent-FoodBakedPotatosCutlets = mashed potatoes with cutlets
-    .desc = You hurry up, we have cutlets right now...
-ent-FoodPickles = pickle
-    .desc = The very thing for vodka
+ent-FoodBakedPotatosCutlets = картофельное пюре с котлетами
+    .desc = Поторопись, у нас сейчас котлеты...
+ent-FoodPickles = солёный огурец
+    .desc = То самое к водочке.

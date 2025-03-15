@@ -3,20 +3,20 @@
 
 delivery-spam-robust-toolboxes = [color=blue][head=1]
     ░░▄▀░░
-    ░▄█▄▄▀ [head=3]ROBUST - TOOLBOXES AND TOOLS[/head]
+    ░▄█▄▄▀ [head=3]РОБУСТНЫЕ - СЕЙФЫ И ИНСТРУМЕНТЫ[/head]
     ██▀░░░ [/head][/color]
     
-    { "[bold]BUY ONE TOOLBOX, GET ONE SET OF TOOLS FOR FREE![/bold]" }
+    { "[bold]КУПИТЕ ОДИН СЕЙФ, ПОЛУЧИТЕ КОМПЛЕКТ ИНСТРУМЕНТОВ БЕСПЛАТНО![/bold]" }
     
-    AS YOU ARE ONE OF OUR VALUED CUSTOMERS, YOU GET A CUSTOMER BONUS, YOUR TOOLS COME RUST AND LEAD-FREE!!! ISN'T THAT AMAZING? THE TOOLBOX ON THE OTHER HAND, COMES WITH EXTRA LEAD! AMAZING FOR SMASHING SKULLS AND STOPPING RADIATION ALIKE!
+    ТАК КАК ВЫ ОДИН ИЗ НАШИХ ЦЕННЫХ КЛИЕНТОВ, ВЫ ПОЛУЧАЕТЕ БОНУС: ВАШИ ИНСТРУМЕНТЫ БЕЗ РЖАВЧИНЫ И СВИНЦА!!! НЕ УДИВИТЕЛЬНО? СЕЙФ ЖЕ ПРИХОДИТ С ДОПОЛНИТЕЛЬНЫМ СВИНЦОМ! ПРЕКРАСНО ДЛЯ РАЗБОЙНЫХ УДАРОВ ПО ЧЕРЕПУ И ОСТАНОВКИ РАДИАЦИИ!
     
-    { "[bold]ALL THIS AND POSSIBLY MORE FOR ONLY ONE ORGAN![/bold]" }
+    { "[bold]ВСЕ ЭТО И, ВОЗМОЖНО, БОЛЬШЕ ЗА ВСЕГО ОДНО ОРГАН![/bold]" }
     
-    ROBUST - TOOLBOXES AND TOOLS:
-    -LEAD AND ASBESTOS FREE!
-    -OR WITH LEAD AND ASBESTOS, IF YOU PREFER!
-    -CHEAP! ONLY ONE ORGAN! THAT'S LESS THAN TWO ORGANS!
-    -DOESN'T HAVE TO BE YOUR ORGAN! WE DON'T JUDGE!
+    РОБАСТНЫЕ - СЕЙФЫ И ИНСТРУМЕНТЫ:
+    -БЕЗ СВИНЦА И АСБЕСТА!
+    -ИЛИ С СВИНЦОМ И АСБЕСТОМ, ЕСЛИ ВЫ ПРЕДПОЧИТАЕТЕ!
+    -ДЕШЕВО! ВСЕГО ОДИН ОРГАН! ЭТО МЕНЬШЕ ДВУХ ОРГАНОВ!
+    -НЕ ОБЯЗАТЕЛЬНО ДОЛЖЕН БЫТЬ ВАШ ОРГАН! МЫ НЕ ОСУЖДАЕМ!
 delivery-spam-reasons-to-chose-nanotrasen = [color=blue]
                                    ╔══════════════════╗
                                    ║███░███░░░░██░░░░░║
@@ -26,16 +26,16 @@ delivery-spam-reasons-to-chose-nanotrasen = [color=blue]
                                    ║░░░░██░░░████░███░║
                                    ╚══════════════════╝[/color]
     
-    { "[head=2]TOP THREE REASONS WHY THE SYNDICATE IS INCOMPETENT[/head]" }
+    { "[head=2]ТРИ ОСНОВНЫЕ ПРИЧИНЫ, ПО КОТОРЫМ СИНДИКАТ - ЭТО ОТСТОЙ[/head]" }
     
-    { "[bold]NUMBER ONE[/bold]" }
-    THEIR SLEEPER AGENTS ARE INCOMPETENT! THEY CAN'T EVEN KILL A PASSENGER WITH A DEATHWISH!
+    { "[bold]ПЕРВОЕ[/bold]" }
+    ИХ СПЯЩИЕ АГЕНТЫ ОТСТОЙ! ОНИ НЕ МОГУТ ДАЖЕ УБИТЬ ПАССАЖИРА С ЦЕЛЬЮ УМЕРЕТЬ СЛАВНОЙ СМЕРТЬЮ!
     
-    { "[bold]NUMBER TWO[/bold]" }
-    THEIR CIVILIANS ARE WEAK TO BULLETS! TRUST ME, WE TRIED! UNLIKE THE NANOTRASEN CIVILIANS, SYNDICATE CIVILIANS DIE FROM A BULLET TO THE SKULL! BULLETS WE HAVE!
+    { "[bold]ВТОРОЕ[/bold]" }
+    ИХ СОТРУДНИКИ СЛАБЫ К ПУЛЯМ! ПОВЕРЬТЕ, МЫ ПРОБОВАЛИ! В ОТЛИЧИЕ ОТ СОТРУДНИКОВ NANOTRASEN, СОТРУДНИКИ СИНДИКАТА УМИРАЮТ ОТ ПУЛИ В ЧЕРЕП! ПУЛИ, КОТОРЫЕ У НАС ЕСТЬ!
     
-    { "[bold]NUMBER THREE[/bold]" }
-    THEIR LOGO IS HORRIBLE! THEY THINK THEY'RE COOL WITH THEIR LOGO! OOH, LOOK AT ME, I'M SO COOL! OOH, SNAKE THAT'S ALSO AN S! HOW CREATIVE! MY THREE YEAR OLD SON COULD DRAW A BETTER LOGO!
+    { "[bold]ТРЕТЬЕ[/bold]" }
+    ИХ ЛОГОТИП УЖАСЕН! ОНИ ДУМАЮТ, ЧТО ОНИ КРУТЫЕ СО СВОИМ ЛОГОТИПОМ! ОХ, ПОСМОТРИТЕ НА МЕНЯ, Я ТАКОЙ КРУТЫЙ! ОХ, ЗМЕЯ, КОТОРАЯ ТАКЖЕ ЯВЛЯЕТСЯ БУКВОЙ S! КАКОЕ ТВОРЧЕСТВО! МОЙ ТРЕХЛЕТНИЙ СЫН МОГ БЫ НАРИСОВАТЬ ЛУЧШИЙ ЛОГОТИП!
 delivery-spam-reasons-to-choose-syndicate = [color=#ff0000]
                                   ╔══════════════════╗
                                   ║░░░░░████████░░░░░║
@@ -45,53 +45,56 @@ delivery-spam-reasons-to-choose-syndicate = [color=#ff0000]
                                   ║░░░░░████████░░░░░║
                                   ╚══════════════════╝[/color]
     
-    { "[head=2]TOP THREE REASONS WHY NANOTRASEN IS INCOMPETENT[/head]" }
+    { "[head=2]ТРИ ОСНОВНЫЕ ПРИЧИНЫ, ПО КОТОРЫМ NANOTRASEN - ЭТО ОТСТОЙ[/head]" }
     
-    { "[bold]NUMBER ONE[/bold]" }
-    THEIR GUNS SUCK! THEY DON'T EVEN HAVE SNIPER RIFLES! THEIR SECURITY FORCES CAN'T EVEN CARRY BIG GUNS IN MOST SITUATIONS!
+    { "[bold]ПЕРВОЕ[/bold]" }
+    ИХ ОРУЖИЕ НЕКАЧЕСТВЕННОЕ! У НИХ НЕТ СТРЕЛКОВЫХ ВИНТОВОК! ИХ СЛУЖБА БЕЗОПАСНОСТИ НЕ МОЖЕТ НОСИТЬ ОРУЖИЕ В БОЛЬШИНСТВЕ СИТУАЦИЙ!
     
-    { "[bold]NUMBER TWO[/bold]" }
-    THEIR COMMANDERS? THEY DIE FROM A SINGLE SHOT! NO COOL ARMOR! JUST BANG, DEAD! LAME! OUR COMMANDERS GET COOL HARDSUITS!
+    { "[bold]ВТОРОЕ[/bold]" }
+    ИХ ГЛАВЫ? ОНИ УМИРАЮТ ОТ ЕДИНОГО ВЫСТРЕЛА! НЕТ КРУТОЙ БРОНИ! ПРОСТО БАБАХ, МЕРТВЫЕ! СКУЧНО! НАШИ КОМАНДИРЫ ПОЛУЧАЮТ КРУТЫЕ ЖЕСТКИЕ КОСТЮМЫ!
     
-    { "[bold]NUMBER THREE[/bold]" }
-    THEIR MURDER METHODS ARE UNINSPIRED! IT'S JUST GUN! THERE'S NO THROWING PEOPLE INTO DEEP SPACE, NO FEEDING PEOPLE INTO RECYCLERS WITH SAFETY MODE DISENGAGED, NO SLIPPING BOMBS INTO POCKETS! SO BORING!
-delivery-spam-tired-of-science = [head=3]Science will LOVE you for this!!
+    { "[bold]ТРЕТЬЕ[/bold]" }
+    ИХ МЕТОДЫ УБИЙСТВА НЕОРИГИНАЛЬНЫ! ПРОСТО ОРУЖИЕ! НЕТ БРОСАНИЯ ЛЮДЕЙ В ГЛУБОКИЙ КОСМОС, НЕТ ПОМЕЩЕНИЯ ЛЮДЕЙ В ПЕРЕРАБОТЧИКИ С ВЫКЛЮЧЕННЫМ РЕЖИМОМ БЕЗОПАСНОСТИ, НЕТ ПОДКИДЫВАНИЯ БОМБ В КАРМАНЫ! ТАК СКУЧНО!
+
+delivery-spam-tired-of-science = [head=3]Наука будет ОБОЖАТЬ ВАС за это!![/head]
     
-    are [bold]YOU[/bold] Tired of your Station's Science Department blowing up withoutdoing any actual science?
-    Well Your in luck![/head]
+    Вам [bold]НАДОЕЛО[/bold], что РНД вашей постоянно взрывается, ничего не делая?
+    Что ж, вам повезло![/head]
     
-    Folow this simple guide, and we'll ensure your Science [italic]Never Works Again![/italic]
+    Следуйте этому простому руководству, и мы гарантируем, что РНД [italic]Больше Никогда НЕ ЗАРАБОТАЕТ![/italic]
     
-    Simply do the following:
-    - Step One: Locate your Science Department's Research Server
-    - Step Two: Un-anchor the Research Server from the ground
-    - Step Three: Hurl the Research Server into space, preferably in the direction of the Spider Clan Super Secret Space Dojo
-    - Step Four: Wait appproximately 3-5 Business Shifts
-    - Step Five: Our Workers at Spid-ex Inc will provide your station with one (1) techdisk per week.
+    Просто сделайте следующее:
+    - Шаг первый: Найдите сервер исследований вашей научной станции
+    - Шаг второй: Отсоедините сервер исследований от земли
+    - Шаг третий: Бросьте сервер исследований в космос, предпочтительно в сторону суперсекретного космического додзё клана паука
+    - Шаг четвертый: Подождите примерно 3-5 рабочих смен
+    - Шаг пятый: Наши работники в Spid-ex Inc предоставят вашей станции один (1) техдиск в неделю.
     
-    { "[color=lightgray]Note: Spider Clan is not responsible for any punishment issued by your supervisors.[/color]" }
-delivery-spam-free-all-access = [head=3]Have You ever wanted to have [italic][color=green]Free [bold]All Axcess!?!?[/bold][/color][/italic][/head]
-    { "[head=2]Well NOW YOU CAN!![/head]!" }
+    { "[color=lightgray]Примечание: Клан паука не несет ответственности за наказания, выданные вашими руководителями.[/color]" }
+
+delivery-spam-free-all-access = [head=3]Хотели ли вы когда-нибудь иметь [italic][color=green]Бесплатный [bold]Полный Доступ!?!?[/bold][/color][/italic][/head]
+    { "[head=2]Теперь ВЫ МОЖЕТЕ!![/head]!" }
     
-    All you need to do is call [color=blue]555-GOUR-LECKSSS[/color] and state your Staton ID# !!!
-    Once youve done that,  we can simply remotely query the wallet of Yourstation's Cargo department, extacting our required fees of three [italic] EASY[/italic] payments, allowing you to claim your
-    { "[head=2][color=green] [bolditalic] FREE AA!!!!!!!!!![/bolditalic][/color][/head]" }
+    Все, что вам нужно сделать, это позвонить по номеру [color=blue]555-GOUR-LECKSSS[/color] и указать ваш ID# Станции !!!
+    После этого мы просто удаленно запросим кошелек отдела снабжения вашей станции, извлекая требуемую сумму из трех [italic]ЛЕГКИХ[/italic] платежей, позволяющих вам получить
+    { "[head=2][color=green] [bolditalic]БЕСПЛАТНЫЙ ПОЛНЫЙ ДОСТУП!!!!!!!!!![/bolditalic][/color][/head]" }
     
     
     { "[color=gray]" }
-    { "[bullet/]Note: station ID must be stated in the format of \"NT/NX - ###\"" }
-    { "[bullet/]Note: Payments lodged to the client's station's cargo department amount to roughly $5000 spesos per transaction, not including individual processing fees" }
-    { "[bullet/]Note: We at Gour-Lecksss LMT. are not responsible if your station's HoP forces you to fill out an ACTUAL Free AA form if they find out about this letter" }
+    { "[bullet/]Примечание: Станционный ID должен быть указан в формате \"NT/NX - ###\"" }
+    { "[bullet/]Примечание: Платежи, зачисленные на отдел снабжения вашей станции, составляют примерно $5000 кредитов за транзакцию, без учета индивидуальных сборов за обработку" }
+    { "[bullet/]Примечание: Мы, Gour-Lecksss LMT., не несем ответственности, если ваш ГП заставит вас заполнять реальную форму для Бесплатного Полного Доступа, если они узнают об этом письме" }
     { "[/color]" }
-delivery-spam-centcomm-retribution = [color=red] THIS IS AN OFICAL NOTICE FROM THE HEAD OF [color=blue]NANOTRASN[/color][/color]
+delivery-spam-centcomm-retribution = [color=red] ЭТО ОФИЦИАЛЬНОЕ УВЕДОМЛЕНИЕ ОТ ГЛАВЫ [color=blue]NANOTRASEN[/color][/color]
     
-    Dear Sir, Madam, or Other Insignificat station personell
+    Уважаемый господин, госпожа или другой незначительный персонал станции
     
-    If you do not wish for this station to be declared Unprofitable in the eyes of
-    { "[head=2][italic] Our Great and Glorious [color=blue]Nanotransen[[/color][/head]" }
-    Then you must organize for three [color=blue]Nt[/color] Standard Stacks of [color=blue]nt[/color] Standard Gold Ingots to be sent to your station's Away Trade Outpots within 5 [color=blue]nT[/color] Standard work shifts.
+    Если вы не хотите, чтобы эта станция была признана убыточной в глазах
+    { "[head=2][italic] Нашей великой корпорации [color=blue]NANOTRASEN[/color][/head]" }
+    То вы должны организовать отправку трех [color=blue]Nt[/color] ящиков [color=blue]nt[/color] золотых слитков на ваш торговый пост станции в течение 5 [color=blue]nT[/color] Стандартных рабочих смен.
     
-    { "[head=2][color=red]IGNORE THIS ORDER AT RISK OF RETRIBUTON FROM [color=green]CENTCO[/color]!!!!![/head][/color]" }
+    { "[head=2][color=red]ИГНОРИРОВАНИЕ ЭТОГО ЗАКАЗА ПОКАЖЕТ СИЛУ ВОЗМЕЗДИЯ [color=green]ЦентКома[/color]!!!!![/head][/color]" }
+
 delivery-spam-alternate-timeline = [color=red]
                                  ╔══════════════════╗
                                  ║███░███░░░░██░░░░░║
@@ -100,69 +103,64 @@ delivery-spam-alternate-timeline = [color=red]
                                  ║░░░░██░░██░██░██░░║
                                  ║░░░░██░░░████░███░║
                                  ╚══════════════════╝[/color]
-    { "[head=2]This is an official notice from the [color=red]Chief Security Officer[/color] at a Nanotrasen's Space Station 15.[/head]" }
+    { "[head=2]Это официальное уведомление от [color=red]Главного Офицера Безопасности[/color] на космической станции NanoTrasen 15.[/head]" }
     
-    To whoever receives this letter. I am Sergeant Rigel. My occupation is the CSO. We need immediate assistance.
+    Тому, кто получит это письмо. Я, Сержант Ригель. Моя профессия - Глава Службы Безопасности. Нам нужна немедленная помощь.
     
-    Our station is currently under attack by Atomic Agents, this letter is being thrown into a destabilized bluespace anomaly created by our [color=purple]Head of Research[/color].
+    Наша станция в настоящее время подвергается атаке ядерных оперативников, это письмо отправляется в дестабилизированную аномалию блюспейса, созданную нашим [color=purple]Научным руководителем[/color].
     
-    I am currently bolted in the Bridge, if you receive this message, please send aid immediately. I don't know how much longer we can last.
+    Сейчас заблокирован на мостике, если вы получите это сообщение, пожалуйста, немедленно отправьте помощь. Я не знаю, сколько еще мы сможем продержаться.
     
-    Glory to Nanotrasen.
-delivery-spam-narsie-cult = [color=#134975][head=2]The Children of Nar'Sie[/head][/color]
-                                 The Beginning of a New Era
+    Слава NanoTrasen.
+delivery-spam-narsie-cult = [color=#134975][head=2]Дети Нар’Сие[/head][/color]
+                                 Начало новой эры
     { "[bold]══──══──══──══──══──══──══──══──══──══──══[/bold]" }
     
-    { "[head=3]Do you feel lost in the vastness of our cosmos?[/head]" }
-    In the modern era, it's easy for wayward souls to feel like cogs in the machine of vast corporations.
+    { "[head=3]Чувствуешь ли ты себя потерянным в вечности нашего космоса?[/head]" }
+    В современную эпоху легко почувствовать себя винтиком в механизме огромных корпораций.
     
-    { "[head=3]Do you feel as if you're made for a better purpose?[/head]" }
-    Do you tire of the life of mundanity forced upon you? Mopping floors, delivering boxes, or filling out endless paperwork?
+    { "[head=3]Чувствуешь ли ты, что предназначен для более великой цели?[/head]" }
+    Тебе надоела жизнь, наполненная рутиной? Мытье полов, доставка коробок или бесконечные бумаги?
     
-    { "[head=3]Do you want to make the galaxy a better place?[/head]" }
+    { "[head=3]Хочешь ли ты сделать галактику лучше?[/head]" }
     
+    Если ты ответил «Да» на любой из этих вопросов, то свяжись с нашим представителем сегодня! У нас есть члены по всем станциям в галактике, которые с нетерпением ждут новых людей в нашем культе. Стань одним из клинков, которые помогут приветствовать Геометру Крови в нашем мире, чтобы все познали её блаженство!
     
-    If you answered "Yes" to any of these questions, then contact one of our representatives today! We have members across stations all over the galaxy eager to welcome new members into our flock. Be one of the blades that helps welcome the Geometer of Blood into our universe so that all may know his bliss!
-    
-    All you have to do is say [color=#FF0000][italic]"Sas'so c'arta forbici!"[/italic][/color]
+    Всё, что тебе нужно, это сказать [color=#FF0000][italic]"Сас'со ц'арта форбичи!"[/italic][/color]
 delivery-spam-rage-cage = [color=#aaaaaa]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
-                                 { "[bold][head=1]THE RAGE CAGE[/head][/bold]" }
+                                 { "[bold][head=1]КЛЕТКА ЯРОСТИ[/head][/bold]" }
     { "[color=#aaaaaa]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]" }
-    { "[bold][color=#FF0000][head=3]DO YOU WANT TO FIGHT?[/head][/color][/bold]" }
-    { "[bold][color=#FF0000][head=3]DO YOU WANT TO WIN?[/head][/color][/bold]" }
-    { "[bold][color=#FF0000][head=3]DO YOU WANT TO DOMINATE?![/head][/color][/bold]" }
+    { "[bold][color=#FF0000][head=3]ХОЧЕШЬ ПОБОРОТЬСЯ?[/head][/color][/bold]" }
+    { "[bold][color=#FF0000][head=3]ХОЧЕШЬ ПОБЕДИТЬ?[/head][/color][/bold]" }
+    { "[bold][color=#FF0000][head=3]ХОЧЕШЬ ДОМИНИРОВАТЬ?![/head][/color][/bold]" }
     
+    Тогда приходи в... [color=#FF0000][bold][head=2]КЛЕТКУ ЯРОСТИ[/head][/bold][/color]
     
-    
-    Then come on down to... [color=#FF0000][bold][head=2]THE RAGE CAGE[/head][/bold][/color]
-    
-    
-    
-    Hidden in the depths of your local Nanotrasen station is the patented [color=#FF0000][bold]RAGE CAGE[/bold][/color]. An electrified fighting arena designed for only the strongest of fighters, the [color=#FF0000][bold]RAGE CAGE[/bold][/color] seperates the Wimps from the Warriors, the Scrubs from the Soldiers, and the Losers from the Winners.
+    Скрытая в глубинах вашей местной станции NanoTrasen, запатентованная [color=#FF0000][bold]КЛЕТКА ЯРОСТИ[/bold][/color]. Электризованная бойцовский арена, предназначенная только для самых сильных бойцов, [color=#FF0000][bold]КЛЕТКА ЯРОСТИ[/bold][/color] отделяет Трусишек от Воинов, Лузеров от Победителей, и Слабых от Сильных.
     ──────────────────────────────────────────
-    In the [color=#FF0000][bold]RAGE CAGE[/bold][/color] there is only one rule: [italic]Two fighters enter. One fighter leaves. [/italic]
+    В [color=#FF0000][bold]КЛЕТКЕ ЯРОСТИ[/bold][/color] есть только одно правило: [italic]Два бойца входят. Один выходит.[/italic]
     ──────────────────────────────────────────
-    No weapons, no armor, just pure unadulterated [bold]COMBAT[/bold]. Don't lose out and be a [bold]WIMP[/bold]. Win the glory of being your station's most robust fighter in the [color=#FF0000][bold]RAGE CAGE[/bold][/color] today!
-delivery-spam-evil-lizard = [color=#FF0000][bold][head=2]STOP[/head][/bold][/color]
+    Без оружия, без брони, только чистая, неограниченная [bold]БОРЬБА[/bold]. Не упусти шанс и не будь [bold]ТРУСОМ[/bold]. Заработай славу самого сильного бойца своей станции в [color=#FF0000][bold]КЛЕТКЕ ЯРОСТИ[/bold][/color] прямо сейчас!
+delivery-spam-evil-lizard = [color=#FF0000][bold][head=2]СТОП[/head][/bold][/color]
     
-    If yore reading this letter...[color=#FF0000][head=3]YOUR ALRAEDY CURSED!!![/head][/color]
+    Если вы читаете это письмо...[color=#FF0000][head=3]ВЫ УЖЕ ПРОКЛЯТЫ!!![/head][/color]
     
-    Im sorry to do this to you but I have to warn you about:
+    Мне жаль, но я должен предупредить вас о:
     
-           { "[color=#FF0000][head=1]The Ghost of The Bloody Lizardd[/head][/color]" }
+           { "[color=#FF0000][head=1]Призраке Кровавой Ящерицы[/head][/color]" }
     
-    It all started when i to got a letter in the mail: it was a scary image of a lizard plushie with BLOODY EYES staring RIGHT AT ME. the letter said I was cursed...and if I didn't send this letter to 30 people within 30 days then the Blood Lizard would come in the middle of the night...
+    Все началось, когда я тоже получил письмо: это было страшное изображение плюшевой ящерицы с КРОВАВЫМИ ГЛАЗАМИ, СМОТРЯЩЕЙ ПРЯМО НА МЕНЯ. В письме говорилось, что я проклят... и если я не отправлю это письмо 30 людям в течение 30 дней, то Кровавая Ящерица придет ночью...
     
-    { "[italic]and KILL ME.[/italic]" }
+    { "[italic]и УБЬЕТ МЕНЯ.[/italic]" }
     
-    im sorry......but your one of the 30 people i have to send this too..and now yoor cursed too...
+    Мне жаль......но теперь ты один из 30 людей, кому я должен отправить это письмо... и теперь ты тоже проклят...
     
-    please send this letter to 30 other people to stop the curse! you can still save yorself! theres still time! don't let the bloody lizard get you too, and take this thingie! it will keep you safe from dark spiirts...[head=3]FOR NOW[/head]
+    Пожалуйста, отправь это письмо еще 30 людям, чтобы остановить проклятие! Ты можешь спасти себя! Еще есть время! Не дай Кровавой Ящерице добраться до тебя, возьми это! Это защитит тебя от темных духов...[head=3]ПОКА[/head]
     
-    
-    
-    
-    { "[head=1]OH NO THERE IT IS!!!!!!!![/head]" }
+
+
+
+    { "[head=1]О НЕТ, ОНА ТАМ!!![/head]" }
     
     ░░░░░░░░░█░░[color=#67CC40]████████[/color]█[color=#67CC40]███[/color]░░░░░░░░░░
     ░░░░░░[color=#FF0000]████[/color]█[color=#6EC543]█[/color][color=#67CC40]███████[/color]█[color=#FF0000]██████[/color]░░░░░░░░
@@ -181,21 +179,21 @@ delivery-spam-evil-lizard = [color=#FF0000][bold][head=2]STOP[/head][/bold][/col
     ░░░░[color=#6EC543]████[/color][color=#61D034]██[/color][color=#86E158]████████[/color][color=#61D034]██[/color][color=#6EC543]██████[/color][color=#52A037]████[/color]░░░░
     ░░░░░░[color=#6EC543]████[/color]░░░░░░░░[color=#6EC543]████████[/color]░░░░░░░░
     ░░░░░░░░░░░░░░░░░░░░[color=#6EC543]████[/color]░░░░░░░░░░
-delivery-spam-parents-need-money = [bold]Hello Child,[/bold]
+delivery-spam-parents-need-money = [bold]Привет, дитя,[/bold]
     
-    This is your Parents writing to you: we are in need of money! Our taxes have been audited and we owe $100,000 in spesos to governnment! please help! they only want gift cards so you will need to send us 100 $1000 spesos Bisa gift cards.
+    Это твои родители пишут тебе: нам нужны деньги! Наши налоги были проверены, и мы должны $100,000 кредитов ОПЗ! Пожалуйста, помоги! Они хотят только подарочные карты, так что тебе нужно отправить нам 100 подарочных карт Bisa на $1000 кредитов.
     
-    please mail to:
+    Пожалуйста, отправь на адрес:
     50192 Spess Lane
     Station City, Ignius 40195-243
-    Gamma Quadrant
-    Guilimin System
+    Гамма-Квадрант
+    Система Гуилимин
     
-    if we do not get this money in 10 days then the govertment will come to take away childhood home and we will be homeless.
+    Если мы не получим эти деньги в течение 10 дней, правительство придет, чтобы забрать наш дом детства, и мы останемся бездомными.
     
-    { "[bold]thank you and we love you,[/bold]" }
-    { "[italic]parents[/italics]" }
-delivery-spam-voyage-advertisement = [head=2]Join us on the maiden voyage of the...[/head]
+    { "[bold]спасибо и мы тебя любим,[/bold]" }
+    { "[italic]родители[/italic]" }
+delivery-spam-voyage-advertisement = [head=2]Присоединяйтесь к нам на первый рейс...[/head]
     
          ░█▀▀░█▀▀░░░█▀▄░█▀▀░█░░░█▀█░█░█░█▀█░█▀▄
          ░▀▀█░▀▀█░░░█▀▄░█▀▀░█░░░█▀█░▄▀▄░█░█░█▀▄
@@ -204,21 +202,20 @@ delivery-spam-voyage-advertisement = [head=2]Join us on the maiden voyage of the
     
     { "[bold]══════════════════════════════════════════[/bold]" }
     
-    The latest in Comfortech™ and the most beautiful sights this side of the Iraxsi System! The [italic]SS Relaxor[/italic] is a state of the art luxury Cruiser taking you on the journey of a lifetime!
+    Новейшее в области Comfortech™ и самые красивые виды на этой стороне системы Иракси! [italic]SS Relaxor[/italic] — это передовой роскошный круизный лайнер, который отправит вас в путешествие всей вашей жизни!
     
-    { "[head=3]Experience the phosphorous lakes of Galimar* from the comfort of our LuxuCabins™ with the all the modern amenities you could ever wish for![/head]" }
+    { "[head=3]Ощутите фосфорные озера Галидара* с комфортом в наших LuxuCabins™ с современными удобствами, которые вы могли бы только пожелать![/head]" }
     
-    { "[head=3]Gaze in awe at the Eye of the Cosmos** while enjoying meals from our Five Star Galaxy class chefs![/head]" }
+    { "[head=3]Гляньте в изумлении на Глаз Космоса**, наслаждаясь блюдами от наших пятизвездочных поваров классов Галактики![/head]" }
     
-    { "[head=3]Explore the ruins of Agathar***, now open to the public with the assistance of Nanotrasen's top Scientists. All the mysteries of the old Agatharian civilization are excavated and displayed for your viewing pleasure![/head]" }
+    { "[head=3]Исследуйте руины Агатара***, теперь открытые для публики с помощью ведущих ученых NanoTrasen. Все тайны древней Агатарской цивилизации были раскопаны и выставлены на обозрение для вашего удовольствия![/head]" }
     
-    For the low, low cost of $5,000 spesos a night, the six month luxury cruise could be yours for the vacation of your dreams! Call us today at [color=#00FF00]RELAX-NOW[/color] to book your cruise. Don't wait! Act now!
-    
-    
+    За низкую цену $5000 кредитов за ночь, шестимесячный роскошный круиз может стать вашим для отпуска всей вашей мечты! Позвоните нам сегодня по номеру [color=#00FF00]RELAX-NOW[/color] и забронируйте ваш круиз. Не ждите! Действуйте сейчас!
     
     
     
     
-    { "[italic]*Phosphorus lakes are not for swimming, you waive all rights to legal representations with Relaxination Destinations upon landing on Galimar.[/italic]" }
-    { "[italic]**Eye of the Cosmos must not be looked at for longer than five seconds at a time. You do not hear the call of the Eye.[/italic]" }
-    { "[italic]***Must sign safety waiver before landing, Relaxination Destinations does not guarantee the safety of the Agatharian ruins. Disappearances of tour groups are down to an acceptable margin of 0.23% of all tour groups that visit the ruins.[/italic]" }
+    
+    { "[italic]*Фосфорные озера не предназначены для купания, вы отказываетесь от всех прав на юридические претензии к Relaxination Destinations после посадки на Галидар.[/italic]" }
+    { "[italic]**Глаз Космоса не должен смотреться более пяти секунд подряд. Вы не слышите призыв Глаза.[/italic]" }
+    { "[italic]***Необходимо подписать отказ от ответственности перед посадкой, Relaxination Destinations не гарантирует безопасность руин Агатара. Исчезновения туристических групп составляют приемлемую долю 0.23% от всех групп, посещающих руины.[/italic]" }

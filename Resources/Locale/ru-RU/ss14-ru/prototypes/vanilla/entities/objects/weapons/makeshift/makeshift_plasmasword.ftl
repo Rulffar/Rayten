@@ -1,7 +1,9 @@
-ent-MeleeWeaponMakeshiftPlasmaSword = makeshift plasma sword
-    .desc = It looks more like a bomb than an energy sword.
-ent-MeleeWeaponMakeshiftPlasmaSwordFilled = makeshift plasma sword
-    .suffix = Filled
+ent-MeleeWeaponMakeshiftPlasmaSword = сделанный наспех плазменный меч
+    .desc = Это больше похоже на бомбу, чем на энергетический меч.
+
+ent-MeleeWeaponMakeshiftPlasmaSwordFilled = сделанный наспех плазменный меч
+    .suffix = Заполнен
     .desc = { ent-MeleeWeaponMakeshiftPlasmaSword.desc }
-ent-MakeshiftPlasmaSwordUnfinished = unfinished emitter gun
-    .desc = Just a wrapper.
+
+ent-MakeshiftPlasmaSwordUnfinished = незавершённый эмиттер-оружие
+    .desc = Просто оболочка.

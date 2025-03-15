@@ -12,8 +12,8 @@ ent-SyndieMiniBomb = минибомба с таймером
     .desc = Аккуратное, стильное взрывное устройство с приятно-потрескивающим таймером, предназначенное сеять хаос и разрушение.
 ent-SelfDestructSeq = Самоуничтожение
     .desc = Уйти на своих условиях!
-ent-SingularityGrenade = singularity grenade
-    .desc = Grenade that simulates the power of a singularity, pulling things in a heap.
+ent-SingularityGrenade = граната сингулярности
+    .desc = Граната, симулирующая силу сингулярности, притягивающая вещи в кучу.
 # Corvax-HiddenDesc-End
 ent-WhiteholeGrenade = граната белой дыры
     .desc = Граната, которая некоторое время отталкивает всё вокруг.

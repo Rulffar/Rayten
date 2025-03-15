@@ -1,4 +1,4 @@
-ent-MobElementalBase = { "" }
+    ent-MobElementalBase = { "" }
     .desc = { "" }
 ent-MobOreCrab = рудокраб
     .desc = { ent-MobElementalBase.desc }
@@ -16,8 +16,8 @@ ent-MobUraniumCrab = { ent-MobOreCrab }
 ent-MobSilverCrab = { ent-MobOreCrab }
     .desc = Рудный краб, состоящий из серебра.
     .suffix = Серебро
-ent-MobGoldCrab = ore crab
-    .desc = An ore crab made from gold.
+ent-MobGoldCrab = рудокраб
+    .desc = Рудный краб, состоящий из золота.
 ent-ReagentSlime = химический слайм
     .desc = Состоит из жидкости, и хочет растворить вас в себе.
     .suffix = Вода

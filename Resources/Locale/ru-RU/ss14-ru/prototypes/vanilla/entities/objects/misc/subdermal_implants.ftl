@@ -1,2 +1,2 @@
-ent-MemoryShieldImplant = memoryshield implant
-    .desc = This implant protects the user's memory in case of clinical death.
+ent-MemoryShieldImplant = Имплант защиты памяти
+    .desc = Этот имплант защищает память пользователя в случае клинической смерти.

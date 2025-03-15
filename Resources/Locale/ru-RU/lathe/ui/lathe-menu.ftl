@@ -7,9 +7,9 @@ lathe-menu-category-all = Всё
 lathe-menu-search-filter = Фильтр
 lathe-menu-amount = Кол-во:
 lathe-menu-recipe-count =
-    { $count ->
-        [1] { $count } Recipe
-       *[other] { $count } Recipes
+    { $count -> 
+        [1] { $count } Рецепт
+       *[other] { $count } Рецептов
     }
 lathe-menu-reagent-slot-examine = Сбоку имеется отверстие для мензурки.
 lathe-reagent-dispense-no-container = Жидкость выливается из { $name } на пол!
@@ -18,7 +18,7 @@ lathe-menu-material-display = { $material } { $amount }
 lathe-menu-tooltip-display = { $amount } { $material }
 lathe-menu-description-display = [italic]{ $description }[/italic]
 lathe-menu-material-amount =
-    { $amount ->
+    { $amount -> 
         [1] { NATURALFIXED($amount, 2) } ({ $unit })
        *[other] { NATURALFIXED($amount, 2) } ({ $unit })
     }

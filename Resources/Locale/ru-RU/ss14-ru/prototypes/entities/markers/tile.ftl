@@ -1,8 +1,8 @@
 ent-BaseRoofMarker = { "" }
     .desc = { "" }
-ent-RoofMarker = Roof
-    .suffix = Enabled
+ent-RoofMarker = Крыша
+    .suffix = Включена
     .desc = { ent-BaseRoofMarker.desc }
 ent-NoRoofMarker = Roof
-    .suffix = Disabled
+    .suffix = Выключена
     .desc = { ent-BaseRoofMarker.desc }

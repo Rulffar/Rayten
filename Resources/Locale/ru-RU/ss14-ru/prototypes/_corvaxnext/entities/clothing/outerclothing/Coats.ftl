@@ -1,2 +1,2 @@
-ent-ClothingOuterCoatCaptainWhite = white captain's jacket
-    .desc = White captain formal jacket, inlaid with gold.
+ent-ClothingOuterCoatCaptainWhite = белый китель капитана
+.desc = Белый парадный китель капитана, инкрустированный золотом.

@@ -1,2 +1,2 @@
-ent-FireBombPack = explosion pack
-    .desc = Quite a dangerous thing, especially for the one holding it.
+ent-FireBombPack = Пакет взрывчатки
+    .desc = Довольно опасная вещь, особенно для того, кто её держит.
