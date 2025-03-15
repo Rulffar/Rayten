@@ -14631,17 +14631,6 @@ entities:
       rot: 3.141592653589793 rad
       pos: -22.493404,-5.341877
       parent: 2
-- proto: BoxFolderCentCom
-  entities:
-  - uid: 1041
-    components:
-    - type: MetaData
-      name: папка
-    - type: Transform
-      parent: 1029
-    - type: Physics
-      canCollide: False
-    - type: InsideEntityStorage
 - proto: BoxFolderClipboard
   entities:
   - uid: 1042
@@ -43944,15 +43933,6 @@ entities:
     - type: Transform
       pos: 21.489666,19.753956
       parent: 2
-- proto: ClothingHeadHatCatEars
-  entities:
-  - uid: 6070
-    components:
-    - type: Transform
-      pos: -35.5,-37.3
-      parent: 2
-    missingComponents:
-    - Clothing
 - proto: ClothingHeadHatHetmanHat
   entities:
   - uid: 6071
