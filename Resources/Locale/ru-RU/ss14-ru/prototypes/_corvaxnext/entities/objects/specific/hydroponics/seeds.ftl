@@ -1,4 +1,4 @@
-ent-CucumbertSeeds = packet of cucumber seeds
+ent-CucumbertSeeds = пакет семян (огурец)
     .desc = { ent-SeedBase.desc }
-ent-ShashambertSeeds = packet of shashamber seeds
+ent-ShashambertSeeds = пакет семян (чтогурец)
     .desc = { ent-SeedBase.desc }
