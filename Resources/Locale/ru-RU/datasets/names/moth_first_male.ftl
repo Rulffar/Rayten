@@ -1,76 +1,75 @@
 # Agrius
-names-moth-first-male-dataset-1 = Agrius
+names-moth-first-male-dataset-1 = Агриус
 # Attacus atlas
-names-moth-first-male-dataset-2 = Atlas
+names-moth-first-male-dataset-2 = Атлас
 # Attacus
-names-moth-first-male-dataset-3 = Attacus
+names-moth-first-male-dataset-3 = Аттакус
 # Attacus caesar
-names-moth-first-male-dataset-4 = Caesar
+names-moth-first-male-dataset-4 = Цезарь
 # Coscinocera hercules
-names-moth-first-male-dataset-5 = Hercules
+names-moth-first-male-dataset-5 = Геркулес
 # Itame brunneata, "Rannoch Looper"
-names-moth-first-male-dataset-6 = Rannoch
+names-moth-first-male-dataset-6 = Раннух
 # Acosmeryx socrates
-names-moth-first-male-dataset-7 = Socrates
+names-moth-first-male-dataset-7 = Сократ
 # Saturniidae solus
-names-moth-first-male-dataset-8 = Solus
+names-moth-first-male-dataset-8 = Солус
 
-## Other languages
+## Другие языки
 
-# Hebrew עש "moth"
-names-moth-first-male-dataset-9 = Ash
-# Persian "fire"
-names-moth-first-male-dataset-10 = Azar
-# German "emperor" descendant of the Latin caesar
-names-moth-first-male-dataset-11 = Kaiser
-# Latin "king"
-names-moth-first-male-dataset-12 = Rex
-# Sanskrit "darkness" or "dust"
-names-moth-first-male-dataset-13 = Rajas
-# Greek "clothes moth"
-names-moth-first-male-dataset-14 = Skoros
+# Иврит עש "моль"
+names-moth-first-male-dataset-9 = Аш
+# Персидский "огонь"
+names-moth-first-male-dataset-10 = Азар
+# Немецкий "император", потомок латинского caesar
+names-moth-first-male-dataset-11 = Кайзер
+# Латинский "царь"
+names-moth-first-male-dataset-12 = Рекс
+# Санскрит "тьма" или "пыль"
+names-moth-first-male-dataset-13 = Раджас
+# Греческий "моль одежды"
+names-moth-first-male-dataset-14 = Скорос
 
-## Myth and legend
+## Мифы и легенды
 
-# Legendary king of the Britons who crafted wings and died in his attempt at flight
-names-moth-first-male-dataset-15 = Bladud
-# Father of Icarus
-names-moth-first-male-dataset-16 = Daedalus
-# Greek primordial deity of darkness
-names-moth-first-male-dataset-17 = Erebus
-# The classic
-names-moth-first-male-dataset-18 = Icarus
-# Hindu figure, similar to Icarus
-names-moth-first-male-dataset-19 = Jatayu
-# Japanese reading of 夸父（こほ）
-names-moth-first-male-dataset-20 = Koho
-# Chinese giant 夸父, similar to Icarus
-names-moth-first-male-dataset-21 = Kuafu
-# More commonly-known fall-from-heaven figure
-names-moth-first-male-dataset-22 = Lucifer
-# Arthurian wizard
-names-moth-first-male-dataset-23 = Merlin
-# Another Greek figure, similar to Icarus
-names-moth-first-male-dataset-24 = Phaethon
-# Rendering of Bladud from the Welsh blaidd "wolf" + iudd "lord"
-names-moth-first-male-dataset-25 = Wolford
+# Легендарный король бриттов, который создал крылья и погиб в попытке полета
+names-moth-first-male-dataset-15 = Бладуда
+# Отец Икара
+names-moth-first-male-dataset-16 = Дедал
+# Греческое первобытное божество тьмы
+names-moth-first-male-dataset-17 = Эреб
+# Классический
+names-moth-first-male-dataset-18 = Икар
+# Индийская фигура, схожая с Икаром
+names-moth-first-male-dataset-19 = Джатаю
+# Японское чтение 夸父（こほ）
+names-moth-first-male-dataset-20 = Кохо
+# Китайский гигант 夸父, схожий с Икаром
+names-moth-first-male-dataset-21 = Куафу
+# Более известная фигура падения с небес
+names-moth-first-male-dataset-22 = Люцифер
+# Артурийский маг
+names-moth-first-male-dataset-23 = Мерлин
+# Еще одна греческая фигура, схожая с Икаром
+names-moth-first-male-dataset-24 = Фаетон
+# Интерпретация Бладуда с валлийского blaidd "волк" + iudd "лорд"
+names-moth-first-male-dataset-25 = Вольфорд
+## Веселые имена
 
-## Fun names
+names-moth-first-male-dataset-26 = Эйс
+names-moth-first-male-dataset-27 = Альтаир
+names-moth-first-male-dataset-28 = Дасти
+names-moth-first-male-dataset-29 = Гамбит
+names-moth-first-male-dataset-30 = Ястреб
+names-moth-first-male-dataset-31 = Мотью
+names-moth-first-male-dataset-32 = Тимоти
 
-names-moth-first-male-dataset-26 = Ace
-names-moth-first-male-dataset-27 = Altair
-names-moth-first-male-dataset-28 = Dusty
-names-moth-first-male-dataset-29 = Gambit
-names-moth-first-male-dataset-30 = Hawk
-names-moth-first-male-dataset-31 = Mothew
-names-moth-first-male-dataset-32 = Timothy
+## Общие имена, заполнители
 
-## Common names, filler
-
-names-moth-first-male-dataset-33 = Asher
-names-moth-first-male-dataset-34 = Isaac
-names-moth-first-male-dataset-35 = Roman
-names-moth-first-male-dataset-36 = Samuel
-names-moth-first-male-dataset-37 = Sebastian
-names-moth-first-male-dataset-38 = Silas
-names-moth-first-male-dataset-39 = Simon
+names-moth-first-male-dataset-33 = Ашер
+names-moth-first-male-dataset-34 = Исаак
+names-moth-first-male-dataset-35 = Роман
+names-moth-first-male-dataset-36 = Самуэль
+names-moth-first-male-dataset-37 = Себастьян
+names-moth-first-male-dataset-38 = Силас
+names-moth-first-male-dataset-39 = Симон

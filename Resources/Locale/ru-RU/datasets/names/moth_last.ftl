@@ -1,51 +1,51 @@
 # Ascalapha odorata
-names-moth-last-dataset-1 = Blackwitch
-# Refers to any of the 3 Acherontia
-names-moth-last-dataset-2 = Deathshead
+names-moth-last-dataset-1 = Одоратта
+# Относится к любому из 3 Acherontia
+names-moth-last-dataset-2 = Император 
 # Saturniinae
-names-moth-last-dataset-3 = Emperor
+names-moth-last-dataset-3 = Сатурниина
 # Plagodis dolabraria
-names-moth-last-dataset-4 = Scorchedwing
+names-moth-last-dataset-4 = Плагодис 
 # Temnora
-names-moth-last-dataset-5 = Temnora
+names-moth-last-dataset-5 = Темнора
 # Usta
-names-moth-last-dataset-6 = Usta
+names-moth-last-dataset-6 = Уста
 # Thysania agrippina
-names-moth-last-dataset-7 = Whitewitch
+names-moth-last-dataset-7 = Агриппин 
 # Operophtera brumata
-names-moth-last-dataset-8 = Winter
+names-moth-last-dataset-8 = Оперофтера 
 
-## Other languages
+## Другие языки
 
-# Ancient Greek "moth"
-names-moth-last-dataset-9 = Epiolos
-# Conceivably any Old Norse descendant of mǫlr but probably more Danish than anything. "oe" digraph for ø.
-names-moth-last-dataset-10 = Moeller
-# Literal pseudo-translation of German Nachtfalter
-names-moth-last-dataset-11 = Nightflitter
+# Древнегреческий "моль"
+names-moth-last-dataset-9 = Коциносера
+# Вероятно, любой потомок старонорвежского mǫlr, но скорее более датский. Дифтонг "oe" для ø.
+names-moth-last-dataset-10 = Брунеатта
+# Литеральный псевдоперевод немецкого Nachtfalter
+names-moth-last-dataset-11 = Саттурнид
 
-## Myth and legend
+## Мифы и легенды
 
-# Belief of moths flying at night signalling the reception of a letter
-names-moth-last-dataset-12 = Herald
-# Greek figure associated with Hero, and similar sounding to Oleander hawk-moth
-names-moth-last-dataset-13 = Leander
-# Split between being a myth reference and actual possible surname given the actual Goodman, Hoffman, Newman, Coleman, etc.
-names-moth-last-dataset-14 = Mothman
+# Поверье, что моли, летающие ночью, сигнализируют о получении письма
+names-moth-last-dataset-12 = Бистон
+# Греческая фигура, связанная с Герой, и звучащая похоже на моль Олеандра
+names-moth-last-dataset-13 = Саласс
+# Разделяется между мифом и возможной фамилией, как например Goodman, Hoffman, Newman, Coleman и другие
+names-moth-last-dataset-14 = Актияс
 
-## Fun names
+## Веселые имена
 
-names-moth-last-dataset-15 = Cometrider
-names-moth-last-dataset-16 = Eventide
-names-moth-last-dataset-17 = Firefly
-names-moth-last-dataset-18 = Firebrush
-names-moth-last-dataset-19 = Flamecoat
-names-moth-last-dataset-20 = Lightweaver
-names-moth-last-dataset-21 = Moondancer
-names-moth-last-dataset-22 = Nightwish
-names-moth-last-dataset-23 = Nighteyes
-names-moth-last-dataset-24 = Owlbane
-names-moth-last-dataset-25 = Silktongue
-names-moth-last-dataset-26 = Sparkdrawn
-names-moth-last-dataset-27 = Stargazer
-names-moth-last-dataset-28 = Starseeker
+names-moth-last-dataset-15 = Кометрайдер
+names-moth-last-dataset-16 = Ивентайд
+names-moth-last-dataset-17 = Файрфлай
+names-moth-last-dataset-18 = Файрбруш
+names-moth-last-dataset-19 = Флеймкот
+names-moth-last-dataset-20 = Лайтвир
+names-moth-last-dataset-21 = Мунданс
+names-moth-last-dataset-22 = Найтвиш
+names-moth-last-dataset-23 = Оулбейн
+names-moth-last-dataset-24 = Сликтонг
+names-moth-last-dataset-25 = Спаркдроу
+names-moth-last-dataset-26 = Спарки
+names-moth-last-dataset-27 = Старфлай
+names-moth-last-dataset-28 = Найтфлауэр
