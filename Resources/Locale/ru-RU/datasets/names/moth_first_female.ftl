@@ -39,44 +39,44 @@ names-moth-first-female-dataset-23 = Бруматта
 ## Другие языки
 
 # Галисийский "моль" (avelaíña)
-names-moth-first-female-dataset-16 = Авелайна
+names-moth-first-female-dataset-24 = Авелайна
 # Итальянский "зимняя моль"
-names-moth-first-female-dataset-17 = Фалена
+names-moth-first-female-dataset-25 = Фалена
 # Греческий "подарок луны"
-names-moth-first-female-dataset-18 = Менодора
+names-moth-first-female-dataset-26 = Менодора
 # Румынский "моль"
-names-moth-first-female-dataset-19 = Молие
+names-moth-first-female-dataset-27 = Молие
 # Испанский "моль"
-names-moth-first-female-dataset-20 = Полилья
+names-moth-first-female-dataset-28 = Полилья
 
 ## Мифы и легенды
 
 # Греческая мифологическая фигура
-names-moth-first-female-dataset-21 = Альтея
+names-moth-first-female-dataset-29 = Альтея
 # Римская богиня рассвета
-names-moth-first-female-dataset-22 = Аврора
+names-moth-first-female-dataset-30 = Аврора
 # Греческая мифологическая фигура
-names-moth-first-female-dataset-23 = Хелле
+names-moth-first-female-dataset-31 = Хелле
 # Греческая богиня луны
-names-moth-first-female-dataset-24 = Селена
+names-moth-first-female-dataset-32 = Селена
 # Греческая богиня ночи
-names-moth-first-female-dataset-25 = Ника
+names-moth-first-female-dataset-33 = Ника
 
 ## Веселые имена
 
-names-moth-first-female-dataset-26 = Ангел
-names-moth-first-female-dataset-27 = Сэнди
-names-moth-first-female-dataset-28 = Либерти
-names-moth-first-female-dataset-29 = Беатриса
+names-moth-first-female-dataset-34 = Ангел
+names-moth-first-female-dataset-35 = Сэнди
+names-moth-first-female-dataset-36 = Либерти
+names-moth-first-female-dataset-37 = Беатриса
 
 ## Общие имена, заполнители
 
-names-moth-first-female-dataset-30 = Дейзи
-names-moth-first-female-dataset-31 = Дон
-names-moth-first-female-dataset-32 = Элизабета
-names-moth-first-female-dataset-33 = Люси
-names-moth-first-female-dataset-34 = Руби
-names-moth-first-female-dataset-35 = Сара
-names-moth-first-female-dataset-36 = Сиенна
-names-moth-first-female-dataset-37 = Уиллоу
-names-moth-first-female-dataset-38 = Зои
+names-moth-first-female-dataset-38 = Дейзи
+names-moth-first-female-dataset-39 = Дон
+names-moth-first-female-dataset-40 = Элизабета
+names-moth-first-female-dataset-41 = Люси
+names-moth-first-female-dataset-42 = Руби
+names-moth-first-female-dataset-43 = Сара
+names-moth-first-female-dataset-44 = Сиенна
+names-moth-first-female-dataset-45 = Уиллоу
+names-moth-first-female-dataset-46 = Зои
