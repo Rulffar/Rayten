@@ -76,3 +76,4 @@ descriptions-cookie-fortune-dataset-75 = Не забудьте попробов�
 descriptions-cookie-fortune-dataset-76 = А вы знали, что более 70% сотрудников Nanotrasen исчезают в первые пару лет своего контракта? Теперь знаете!
 descriptions-cookie-fortune-dataset-77 = На этой смене вы покажете им всем какой вы робаст.
 descriptions-cookie-fortune-dataset-78 = Быть робастным это не только иметь хорошие навыки, но и быть хорошей персоной.
+descriptions-cookie-fortune-dataset-79 = Robustness is not just about how good you are, but how good of a person you are.
