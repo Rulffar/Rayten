@@ -167330,14 +167330,6 @@ entities:
     - type: Transform
       pos: 2.5,3.5
       parent: 24375
-    - type: DeviceLinkSource
-      linkedPorts:
-        29390:
-        - Left: On
-        - Left: Trigger
-        - Right: On
-        - Right: Trigger
-        - Middle: Off
   - uid: 29393
     components:
     - type: Transform
