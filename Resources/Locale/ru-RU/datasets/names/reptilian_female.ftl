@@ -160,4 +160,4 @@ names-reptilian-female-dataset-159 = Вуша
 names-reptilian-female-dataset-160 = Ксил
 names-reptilian-female-dataset-161 = Заш
 names-reptilian-female-dataset-162 = Золласа
-names-reptilian-female-dataset-163 = Zollassa
+names-reptilian-female-dataset-163 = Золласа
