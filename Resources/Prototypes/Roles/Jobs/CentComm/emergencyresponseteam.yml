@@ -21,6 +21,8 @@
         ChemistryLevel: 3
         RangeWeaponLevel: 3
         PilotingLevel: 3
+  - !type:AddImplantSpecial
+    implants: [ MindShieldImplant, DeathRattleImplantCentcomm ]
 
 - type: startingGear
   id: ERTLeaderGear
@@ -74,11 +76,16 @@
   - !type:AddComponentSpecial
     components:
     - type: BibleUser #Lets them heal with bibles
+<<<<<<< HEAD
     - type: Skill
       MedicineLevel: 3
       ChemistryLevel: 3
       RangeWeaponLevel: 3
       PilotingLevel: 3
+=======
+  - !type:AddImplantSpecial
+    implants: [ MindShieldImplant, DeathRattleImplantCentcomm ]
+>>>>>>> 50bbb1c1016c900d2e0637177519732cc2e13f4d
 
 - type: startingGear
   id: ERTChaplainGear
@@ -127,6 +134,7 @@
   access:
   - CentralCommand
   special:
+<<<<<<< HEAD
   - !type:AddComponentSpecial
     components:
       - type: Skill
@@ -134,6 +142,10 @@
         ChemistryLevel: 3
         RangeWeaponLevel: 2
         PilotingLevel: 3
+=======
+  - !type:AddImplantSpecial
+    implants: [ MindShieldImplant, DeathRattleImplantCentcomm ]
+>>>>>>> 50bbb1c1016c900d2e0637177519732cc2e13f4d
 
 - type: startingGear
   id: ERTEngineerGear
@@ -183,6 +195,7 @@
   access:
   - CentralCommand
   special:
+<<<<<<< HEAD
   - !type:AddComponentSpecial
     components:
       - type: Skill
@@ -190,6 +203,10 @@
         ChemistryLevel: 3
         RangeWeaponLevel: 3
         PilotingLevel: 3
+=======
+  - !type:AddImplantSpecial
+    implants: [ MindShieldImplant, DeathRattleImplantCentcomm ]
+>>>>>>> 50bbb1c1016c900d2e0637177519732cc2e13f4d
 
 - type: startingGear
   id: ERTSecurityGear
@@ -235,6 +252,7 @@
   access:
   - CentralCommand
   special:
+<<<<<<< HEAD
   - !type:AddComponentSpecial
     components:
       - type: Skill
@@ -242,6 +260,10 @@
         ChemistryLevel: 3
         RangeWeaponLevel: 2
         PilotingLevel: 3
+=======
+  - !type:AddImplantSpecial
+    implants: [ MindShieldImplant, DeathRattleImplantCentcomm ]
+>>>>>>> 50bbb1c1016c900d2e0637177519732cc2e13f4d
 
 - type: startingGear
   id: ERTMedicalGear
@@ -308,6 +330,7 @@
   access:
   - CentralCommand
   special:
+<<<<<<< HEAD
   - !type:AddComponentSpecial
     components:
       - type: Skill
@@ -315,6 +338,10 @@
         ChemistryLevel: 3
         RangeWeaponLevel: 2
         PilotingLevel: 3
+=======
+  - !type:AddImplantSpecial
+    implants: [ MindShieldImplant, DeathRattleImplantCentcomm ]
+>>>>>>> 50bbb1c1016c900d2e0637177519732cc2e13f4d
 
 - type: startingGear
   id: ERTJanitorGear
