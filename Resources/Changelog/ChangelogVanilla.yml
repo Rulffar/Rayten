@@ -1338,3 +1338,16 @@
   id: 84
   time: '2025-04-16T09:16:30.0000000+00:00'
   url: https://github.com/RaytenCorp/Rayten/pull/212
+- author: thefuckmybrain
+  changes:
+  - message: "\u0414\u043E\u0431\u0430\u0432\u043B\u0435\u043D \u0440\u0435\u0439\u0442\
+      \u0435\u043D-\u0422\u0422\u0421 \u043D\u0430 12 \u0433\u043E\u043B\u043E\u0441\
+      \u043E\u0432 \u0438 \u0432\u043E\u0437\u043C\u043E\u0436\u043D\u043E\u0441\u0442\
+      \u044C \u0438\u0437\u043C\u0435\u043D\u044F\u0442\u044C \u0442\u043E\u043D\u0430\
+      \u043B\u044C\u043D\u043E\u0441\u0442\u044C \u0432 \u043F\u0435\u0440\u0441\u043E\
+      \u043D\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u0438 \u043F\u0435\u0440\u0441\
+      \u043E\u043D\u0430\u0436\u0430"
+    type: Add
+  id: 85
+  time: '2025-04-17T21:06:10.0000000+00:00'
+  url: https://github.com/RaytenCorp/Rayten/pull/216
