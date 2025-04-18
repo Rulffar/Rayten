@@ -1,4 +1,3 @@
-node-scan-popup = ID узла: { $id }
 node-scan-no-data = Нет активных данных узлов
 node-scan-display-title = Сканер узлов
 node-scanner-artifact-scanned-time = Артефакт был сканирован в { $time }
