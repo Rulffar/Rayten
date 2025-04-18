@@ -74,4 +74,3 @@ xenoarch-trigger-examine-pulsing = Открытый диод выступает 
 xenoarch-trigger-examine-timer = На поверхности видны вырезы и царапины... Вы едва различаете число: [italic]{ $time }[/italic]
 xenoarch-effect-puddle = Производит лужу из следующих реагентов: { $reagent }
 xenoarch-effect-foam = Производит пену из следующих реагентов: { $reagent }
-
