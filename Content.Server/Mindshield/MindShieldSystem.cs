@@ -7,6 +7,8 @@ using Content.Shared.Database;
 using Content.Shared.Implants;
 using Content.Shared.Mindshield.Components;
 using Content.Shared.Revolutionary.Components;
+using Content.Shared.Vanilla.MemoryShield;
+
 using Robust.Shared.Containers;
 
 namespace Content.Server.Mindshield;
@@ -27,9 +29,24 @@ public sealed class MindShieldSystem : EntitySystem
         base.Initialize();
 
         SubscribeLocalEvent<MindShieldImplantComponent, ImplantImplantedEvent>(OnImplantImplanted);
+        SubscribeLocalEvent<MemoryShieldImplantComponent, ImplantImplantedEvent>(OnMEMImplantImplanted);//Rayten
         SubscribeLocalEvent<MindShieldImplantComponent, EntGotRemovedFromContainerMessage>(OnImplantDraw);
+        SubscribeLocalEvent<MemoryShieldImplantComponent, EntGotRemovedFromContainerMessage>(OnMEMImplantDraw);//Rayten
     }
+    //Rayten-start
+    private void OnMEMImplantImplanted(Entity<MemoryShieldImplantComponent> ent, ref ImplantImplantedEvent ev)
+    {
+        if (ev.Implanted == null)
+            return;
 
+        EnsureComp<MemoryShieldComponent>(ev.Implanted.Value);
+        MindShieldRemovalCheck(ev.Implanted.Value, ev.Implant);
+    }
+    private void OnMEMImplantDraw(Entity<MemoryShieldImplantComponent> ent, ref EntGotRemovedFromContainerMessage args)
+    {
+        RemComp<MemoryShieldComponent>(args.Container.Owner);
+    }
+    //Rayten-end
     private void OnImplantImplanted(Entity<MindShieldImplantComponent> ent, ref ImplantImplantedEvent ev)
     {
         if (ev.Implanted == null)
@@ -62,5 +79,6 @@ public sealed class MindShieldSystem : EntitySystem
     {
         RemComp<MindShieldComponent>(args.Container.Owner);
     }
+    
 }
 
