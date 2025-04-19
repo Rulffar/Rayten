@@ -18,7 +18,6 @@ using Content.Shared.CombatMode.Pacification;
 using Content.Shared.Damage;
 using Content.Shared.Hands.Components;
 using Content.Shared.Hands.EntitySystems;
-using Content.Shared.CombatMode.Pacification;
 using Content.Shared.Humanoid;
 using Content.Shared.Interaction.Components;
 using Content.Shared.Mobs;
@@ -116,7 +115,6 @@ public sealed partial class ZombieSystem
         RemComp<ReproductivePartnerComponent>(target);
         RemComp<LegsParalyzedComponent>(target);
         RemComp<ComplexInteractionComponent>(target);
-        RemComp<SlowOnDamageComponent>(target);
 
         //funny voice
         var accentType = "zombie";
@@ -186,11 +184,13 @@ public sealed partial class ZombieSystem
 
             //This is done here because non-humanoids shouldn't get baller damage
             melee.Damage = zombiecomp.DamageOnBite;
+            
             //Rayten-start
             if(!TryComp<SkillComponent>(target, out var skill))
                 skill = EnsureComp<SkillComponent>(target);
             skill.MeleeWeaponLevel = SkillLevel.Expert;
             //Rayten-end
+
             // humanoid zombies get to pry open doors and shit
             var pryComp = EnsureComp<PryingComponent>(target);
             pryComp.SpeedModifier = 0.75f;
@@ -198,18 +198,6 @@ public sealed partial class ZombieSystem
             pryComp.Force = true;
 
             Dirty(target, pryComp);
-
-            // Humanoid zombie now deals stamina damage! ye.
-            AddComp<StaminaDamageOnHitComponent>(target);
-            var staminDamage = EnsureComp<StaminaDamageOnHitComponent>(target);
-            staminDamage.Damage = 15f;
-
-            Dirty(target, staminDamage);
-
-            var staminaHp = EnsureComp<StaminaComponent>(target);
-            staminaHp.CritThreshold = 200f;
-
-            Dirty(target, staminaHp);
         }
 
         Dirty(target, melee);
