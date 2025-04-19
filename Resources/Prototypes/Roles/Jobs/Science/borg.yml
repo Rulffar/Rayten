@@ -6,8 +6,9 @@
   description: job-description-station-ai
   playTimeTracker: JobStationAi
   requirements:
-  - !type:OverallPlaytimeRequirement
-    time: 72000 #20 hrs
+  - !type:RoleTimeRequirement
+    role: JobBorg
+    time: 18000  # 5 hrs
   canBeAntag: false
   icon: JobIconStationAi
   supervisors: job-supervisors-rd
@@ -38,11 +39,7 @@
   playTimeTracker: JobBorg
   requirements:
     - !type:OverallPlaytimeRequirement
-<<<<<<< HEAD
       time: 72000 #20 hrs
-=======
-      time: 36000 # 10 hrs
->>>>>>> 83db0689d6577098dc51d981f364e2fb56b02bec
   canBeAntag: false
   icon: JobIconBorg
   supervisors: job-supervisors-rd
