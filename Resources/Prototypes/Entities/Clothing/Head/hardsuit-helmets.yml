@@ -645,7 +645,6 @@
     sprite: Clothing/Head/Hardsuits/ERThelmets/ertengineer.rsi
   - type: PointLight
     color: cyan # Corvax-Resprite
-    color: "#f4ffad"
   - type: FireProtection
     reduction: 0.2
   - type: Armor
