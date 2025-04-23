@@ -8,7 +8,7 @@
   id: NamesMothFirstFemale
   values:
     prefix: names-moth-first-female-dataset-
-    count: 39
+    count: 46
 
 - type: localizedDataset
   id: NamesMothLast
