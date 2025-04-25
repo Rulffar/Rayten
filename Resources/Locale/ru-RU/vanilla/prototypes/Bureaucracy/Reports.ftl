@@ -76,12 +76,9 @@ Bureaucracy-Report-Death =
     { Bureaucracy-base-start }
     
     Имя:
-
+    
     Причина смерти:
     Возможность клонирование/реанимации:
     Время смерти:
     
     { Bureaucracy-base-end }
-
-
-
