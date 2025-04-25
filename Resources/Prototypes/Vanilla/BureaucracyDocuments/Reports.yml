@@ -53,7 +53,7 @@
   category: Report
 
 - type: BureaucracyDocument
-  id: StudyingReport
+  id: DeathReport
   text: Bureaucracy-Report-Death
   label: "Свидетельство о смерти"
   category: Report
