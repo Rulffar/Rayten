@@ -45,6 +45,9 @@
     - type: Sprite
       sprite: Objects/Power/powersink.rsi
       state: powersink
+    - type: Tag
+      tags:
+      - GhostOnlyWarp
     - type: WarpPoint
       location: powersink
 # Corvax-HiddenDesc-Start
@@ -68,3 +71,6 @@
           - Scientist
           - Borg
 # Corvax-HiddenDesc-End
+      blacklist:
+        tags:
+        - GhostOnlyWarp
