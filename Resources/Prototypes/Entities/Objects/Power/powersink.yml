@@ -50,6 +50,9 @@
       - GhostOnlyWarp
     - type: WarpPoint
       location: powersink
+      blacklist:
+        tags:
+        - GhostOnlyWarp
 # Corvax-HiddenDesc-Start
     - type: HiddenDescription
       entries:
@@ -71,6 +74,4 @@
           - Scientist
           - Borg
 # Corvax-HiddenDesc-End
-      blacklist:
-        tags:
-        - GhostOnlyWarp
+
