@@ -1,0 +1,102 @@
+
+- type: stack
+  id: FloorTileItemWoodBlack
+  name: stack-floor-corvax-base
+  spawn: FloorTileItemWoodBlack
+  maxCount: 30
+
+- type: stack
+  id: FloorTileItemWoodDark
+  name: stack-floor-corvax-base
+  spawn: FloorTileItemWoodDark
+  maxCount: 30
+
+- type: stack
+  id: FloorTileItemWoodLight
+  name: stack-floor-corvax-base
+  spawn: FloorTileItemWoodLight
+  maxCount: 30
+
+- type: stack
+  id: FloorTileItemWoodRed
+  name: stack-floor-corvax-base
+  spawn: FloorTileItemWoodRed
+  maxCount: 30
+
+- type: stack
+  id: FloorTileItemWoodLargeBlack
+  name: stack-floor-corvax-base
+  spawn: FloorTileItemWoodLargeBlack
+  maxCount: 30
+
+- type: stack
+  id: FloorTileItemWoodLargeDark
+  name: stack-floor-corvax-base
+  spawn: FloorTileItemWoodLargeDark
+  maxCount: 30
+
+- type: stack
+  id: FloorTileItemWoodLargeLight
+  name: stack-floor-corvax-base
+  spawn: FloorTileItemWoodLargeLight
+  maxCount: 30
+
+- type: stack
+  id: FloorTileItemWoodLargeRed
+  name: stack-floor-corvax-base
+  spawn: FloorTileItemWoodLargeRed
+  maxCount: 30
+
+- type: stack
+  id: FloorTileItemWoodParquetBlack
+  name: stack-floor-corvax-base
+  spawn: FloorTileItemWoodParquetBlack
+  maxCount: 30
+
+- type: stack
+  id: FloorTileItemWoodParquetDark
+  name: stack-floor-corvax-base
+  spawn: FloorTileItemWoodParquetDark
+  maxCount: 30
+
+- type: stack
+  id: FloorTileItemWoodParquetLight
+  name: stack-floor-corvax-base
+  spawn: FloorTileItemWoodParquetLight
+  maxCount: 30
+
+- type: stack
+  id: FloorTileItemWoodParquetRed
+  name: stack-floor-corvax-base
+  spawn: FloorTileItemWoodParquetRed
+  maxCount: 30
+
+- type: stack
+  id: FloorTileItemWoodChess
+  name: stack-floor-corvax-base
+  spawn: FloorTileItemWoodChess
+  maxCount: 30
+
+- type: stack
+  id: FloorTileItemWoodChessBlack
+  name: stack-floor-corvax-base
+  spawn: FloorTileItemWoodChessBlack
+  maxCount: 30
+
+- type: stack
+  id: FloorTileItemWoodChessDark
+  name: stack-floor-corvax-base
+  spawn: FloorTileItemWoodChessDark
+  maxCount: 30
+
+- type: stack
+  id: FloorTileItemWoodChessLight
+  name: stack-floor-corvax-base
+  spawn: FloorTileItemWoodChessLight
+  maxCount: 30
+
+- type: stack
+  id: FloorTileItemWoodChessRed
+  name: stack-floor-corvax-base
+  spawn: FloorTileItemWoodChessRed
+  maxCount: 30
