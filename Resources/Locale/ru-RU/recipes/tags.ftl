@@ -36,13 +36,13 @@ construction-graph-tag-uranium-glass-shard = осколок уранового �
 construction-graph-tag-reinforced-glass-shard = осколок армированного стекла
 construction-graph-tag-grey-flatcap = серая кепка
 construction-graph-tag-brown-flatcap = коричневая кепка
-construction-graph-tag-cuffs = наручники
+construction-graph-tag-cuffs = кабельные стяжки
 construction-graph-tag-payload = полезная нагрузка
 construction-graph-tag-empty-can = пустая банка
 construction-graph-tag-igniter = воспламенитель
 construction-graph-tag-modular-receiver = модульный приёмник
-construction-graph-tag-power-cell-small = малая энергоячейка
-construction-graph-tag-power-cell = энергоячейка
+construction-graph-tag-power-cell-small = батарея малой ёмкости
+construction-graph-tag-power-cell = батарея
 construction-graph-tag-potato-battery = картофельная батарейка
 construction-graph-tag-super-compact-ai-chip = сверхкомпактный ИИ-чип
 # Прочее
