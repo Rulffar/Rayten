@@ -12,4 +12,3 @@ ent-LeftHandSmartCorgi = рука корги (левая)
     .desc = { ent-PartAnimal.desc }
 ent-RightHandSmartCorgi = рука корги (правая)
     .desc = { ent-PartAnimal.desc }
-
