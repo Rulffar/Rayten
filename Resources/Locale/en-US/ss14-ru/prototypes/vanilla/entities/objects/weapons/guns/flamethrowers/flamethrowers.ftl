@@ -1,2 +1,2 @@
-ent-WeaponBaseFlamethrower = flamethrower
-    .desc = Vssssuuuhhhh!!
+ent-WeaponBaseFlamethrower = огнемёт
+    .desc = Вжуууххх!! Эффективное оружие РХБЗЗ против тварей без скафандра.

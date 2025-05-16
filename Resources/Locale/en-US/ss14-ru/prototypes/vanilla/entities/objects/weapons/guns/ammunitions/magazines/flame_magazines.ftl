@@ -1,2 +1,2 @@
-ent-BaseFlamethrowerMagazine = flamethrower plasma tank
+ent-BaseFlamethrowerMagazine = баллон огнемёта
     .desc = { ent-BaseItem.desc }

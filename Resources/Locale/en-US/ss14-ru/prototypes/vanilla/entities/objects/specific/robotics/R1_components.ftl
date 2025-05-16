@@ -1,4 +1,4 @@
-ent-R1Head = r1 head module
-    .desc = An head.
-ent-R1Heart = r1 heart
-    .desc = An R-1 biomechanical heart.
+ent-R1Head = головной модуль R1
+    .desc = Голова, хоть повреждена, но довольно ценна.
+ent-R1Heart = сердце R1
+    .desc = Биомеханическое сердце R1, мертво, но цену имеет.

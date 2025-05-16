@@ -1,2 +1,2 @@
-ent-FloorFire = floor fire
-    .desc = It's fire and not a gas, wow!
+ent-FloorFire = напольное пламя
+    .desc = Это огонь, и не газ, вау!

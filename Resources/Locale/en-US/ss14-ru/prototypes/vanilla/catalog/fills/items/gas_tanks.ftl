@@ -1,3 +1,3 @@
-ent-MaxcapTank = maxcap tank
-    .desc = Cabooom!
-    .suffix = Maxcap
+ent-MaxcapTank = баллоновая бомба
+    .desc = Баллон, по страшной расцветке которого можно сделать вывод, что в нём взрывчатое газовое вещество.
+    .suffix = Лимитка

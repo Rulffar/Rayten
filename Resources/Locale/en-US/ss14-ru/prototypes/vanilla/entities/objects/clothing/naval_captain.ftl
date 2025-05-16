@@ -1,8 +1,8 @@
-ent-ClothingUniformJumpsuitNavalCaptain = naval captain's uniform
-    .desc = Stylish and rich.
-ent-ClothingHeadHatNavalCap = naval captain's cap
-    .desc = Do you hear us Captain!?
-ent-ClothingOuterCoatNavalCaptain = naval captain's coat
-    .desc = Raise the sails!
-ent-ClothingBackpackSatchelNavalCaptain = naval captain's satchel
-    .desc = It smells like paint..
+ent-ClothingUniformJumpsuitNavalCaptain = форма капитана флота
+    .desc = Стильная и роскошная.
+ent-ClothingHeadHatNavalCap = капитанская фуражка
+    .desc = Ты нас слышишь, капитан!?
+ent-ClothingOuterCoatNavalCaptain = капитанский плащ
+    .desc = Поднимай паруса!
+ent-ClothingBackpackSatchelNavalCaptain = капитанская сумка
+    .desc = Пахнет краской..

@@ -1,4 +1,4 @@
-ent-WeaponEmitterGun = emitter gun
-    .desc = Suitable as an emergency deterrent measure, or as an emergency terrorist attack measure.
-ent-EmitterGunUnfinished = unfinished emitter gun
-    .desc = Just a wrapper.
+ent-WeaponEmitterGun = эмиттерная пушка
+    .desc = Подходит как экстренная мера для сдерживания опасности, или для становления ею.
+ent-EmitterGunUnfinished = каркас эмиттерной пушки
+    .desc = Просто оболочка.

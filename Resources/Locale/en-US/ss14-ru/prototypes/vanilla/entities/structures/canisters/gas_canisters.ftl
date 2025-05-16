@@ -1,3 +1,3 @@
 ent-MaxcapCanister = { ent-PlasmaCanister }
-    .suffix = Maxcap
+    .suffix = Лимитка
     .desc = { ent-PlasmaCanister.desc }
