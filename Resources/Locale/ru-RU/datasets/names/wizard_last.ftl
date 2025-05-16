@@ -67,4 +67,3 @@ names-wizard-last-dataset-66 = Мудрый
 names-wizard-last-dataset-67 = которого
 names-wizard-last-dataset-68 = Ксобех
 names-wizard-last-dataset-69 = Им Сагоз
-

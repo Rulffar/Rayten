@@ -27,6 +27,7 @@ names-wizard-first-dataset-26 = Ускайау
 names-wizard-first-dataset-27 = Вехумет
 names-wizard-first-dataset-28 = Ксом
 names-wizard-first-dataset-29 = Иредлемнул
+names-wizard-first-dataset-30 = Ру
 names-wizard-first-dataset-31 = Сиф
 names-wizard-first-dataset-32 = Спеллберг
 names-wizard-first-dataset-33 = Трог
@@ -41,4 +42,3 @@ names-wizard-first-dataset-41 = Иределемнуль
 names-wizard-first-dataset-42 = Йодальф
 names-wizard-first-dataset-43 = Зартемис
 names-wizard-first-dataset-44 = Зин
-
