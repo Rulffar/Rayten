@@ -1,2 +1,2 @@
-ent-CartridgeFlamethrower = огненный капсуль
+ent-CartridgeFlamethrower = flamepill
     .desc = { ent-BaseCartridgeCaselessRifle.desc }

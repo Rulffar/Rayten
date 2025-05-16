@@ -1,12 +1,12 @@
 ent-R1Base = { ent-BaseBorgChassis }
-    .desc = Машина, венец творения, созданная исключительно для убийств.
+    .desc = Mne len tut che to pisat, zabeite her na anglichan.
 ent-R1 = { ent-R1Base }
     .desc = { ent-R1Base.desc }
 ent-R1NotAntag = R-1
     .suffix = NotAntag
     .desc = { ent-R1Base.desc }
 ent-R1Spawner = R-1
-    .suffix = Спавнер
+    .suffix = Spawner
     .desc = { ent-BaseAntagSpawner.desc }
 ent-R2 = { ent-R1Base }
-    .desc = Модифицированная версия R-1 для условий вне редспейса, а также для долгосрочной службы.
+    .desc = Mne len tut che to pisat, zabeite her na anglichan.

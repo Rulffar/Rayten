@@ -1,8 +1,8 @@
-ent-ClothingHeadHelmetHardsuitERTLeaderPeacekeeper = шлем скафандра лидера ОБР
-    .desc = Специальный шлем скафандра типа "Миротворец", используемый ОБР.
-ent-ClothingHeadHelmetHardsuitERTMedicalPeacekeeper = шлем скафандра медика ОБР
-    .desc = Специальный шлем скафандра типа "Миротворец", используемый ОБР.
-ent-ClothingHeadHelmetHardsuitERTSecurityPeacekeeper = шлем скафандр бойца ОБР
-    .desc = Специальный шлем скафандра типа "Миротворец", используемый ОБР.
-ent-ClothingHeadHelmetHardsuitERTSecuritySploder = шлем скафандра бойца ОБР
-    .desc = Специальный шлем скафандра типа "Подрывник", используемый ОБР.
+ent-ClothingHeadHelmetHardsuitERTLeaderPeacekeeper = ERT leader hardsuit helmet
+    .desc = A special hardsuit helmet worn by members of an emergency response team.
+ent-ClothingHeadHelmetHardsuitERTMedicalPeacekeeper = ERT medic hardsuit helmet
+    .desc = A special hardsuit helmet worn by members of an emergency response team.
+ent-ClothingHeadHelmetHardsuitERTSecurityPeacekeeper = ERT security hardsuit helmet
+    .desc = A special hardsuit helmet worn by members of an emergency response team.
+ent-ClothingHeadHelmetHardsuitERTSecuritySploder = ERT security hardsuit helmet
+    .desc = A special hardsuit helmet worn by members of an emergency response team.

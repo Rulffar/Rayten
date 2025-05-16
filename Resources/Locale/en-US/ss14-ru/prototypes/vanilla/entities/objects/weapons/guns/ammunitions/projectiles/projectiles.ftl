@@ -1,2 +1,2 @@
-ent-ProjectileFlame = струя пламени
-    .desc = Обожаю запах плазмы по утрам.
+ent-ProjectileFlame = flame
+    .desc = Try not to get toasted.

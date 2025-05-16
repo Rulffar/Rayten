@@ -1,2 +1,2 @@
-ent-MeleeWeaponPlasmaSword = плазменный меч
-    .desc = Поскольку энергетическое оружие запрещено на территории фронтира, NanoTrasen выпустила это, назвав "промышленным плазменным сварочным аппаратом с температурой воспламенения".
+ent-MeleeWeaponPlasmaSword = plasma sword
+    .desc = Since energy weapons are prohibited on the Frontier, NanoTrasen spit out this, calling it an "industrial combustion temperature plasma welder."

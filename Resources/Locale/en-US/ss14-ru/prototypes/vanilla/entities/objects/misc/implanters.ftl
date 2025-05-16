@@ -1,3 +1,3 @@
 ent-MemoryShieldImplanter = { ent-BaseImplantOnlyImplanter }
-    .suffix = Защита памяти
+    .suffix = memoryshield
     .desc = { ent-BaseImplantOnlyImplanter.desc }

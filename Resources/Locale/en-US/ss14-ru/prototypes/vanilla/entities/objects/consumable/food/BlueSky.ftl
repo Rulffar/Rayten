@@ -1,4 +1,4 @@
-ent-BlueSkyPlate = плитка голубого неба
-    .desc = плитка из чистого эфедронекса. Чистое стекло длиной 5-7 сантиметров.
-ent-BlueSkyPiece = кусочек голубого неба
-    .desc = Кристаллы эфедронекса, обладающие чистотой 99,1%. Настоящее искусство.
+ent-BlueSkyPlate = blue sky plate
+    .desc = A plate of pure ephedronex. Clean glass 5-7 centimeters in length.
+ent-BlueSkyPiece = blue sky piece
+    .desc = Ephedronex crystals that exude 99.1% purity. Real art.
