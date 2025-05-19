@@ -22,5 +22,3 @@ ent-BulletSlab = { ent-BaseBullet }
     .desc = { ent-BaseBullet.desc }
 ent-BulletNail = { ent-BaseBullet }
     .desc = { ent-BaseBullet.desc }
-ent-ExplosionCoreEject = { "" }
-    .desc = { "" }
