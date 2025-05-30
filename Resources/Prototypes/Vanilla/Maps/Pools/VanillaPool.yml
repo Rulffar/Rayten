@@ -2,7 +2,6 @@
   id: VanillaMapPool
   maps:
   # Lowpop (0)
-  - CorvaxSilly
   - CorvaxFrame
   - Saltern
   - Cluster
