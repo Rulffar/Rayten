@@ -206,7 +206,7 @@
   description: job-description-ertsecurity
   playTimeTracker: JobERTSecurity
   setPreference: false
-  startingGear: ERTSecurityGearEVA
+  startingGear: ERTSecurityGear
   icon: "JobIconNanotrasen"
   supervisors: job-supervisors-centcom
   canBeAntag: false
