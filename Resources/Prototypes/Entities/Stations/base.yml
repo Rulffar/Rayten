@@ -58,7 +58,7 @@
             - type: ProtectedGrid
             - type: TradeStation
           paths:
-            - /Maps/Shuttles/RaytenTrade.yml #Rayten-Tradepost
+            - /Maps/Vanilla/Misc/RaytenTrade.yml #Rayten-Tradepost
         # Spawn last
         ruins: !type:GridSpawnGroup
           hide: true
