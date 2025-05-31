@@ -1951,3 +1951,16 @@
   id: 109
   time: '2025-05-31T08:30:13.0000000+00:00'
   url: https://github.com/RaytenCorp/Rayten/pull/275
+- author: thefuckmybrain
+  changes:
+  - message: "\u0423\u0440\u043E\u043D \u043E\u0442 \u043D\u0430\u0432\u044B\u043A\
+      \u0430 \u0431\u043B\u0438\u0436\u043D\u0435\u0433\u043E \u0431\u043E\u044F \u0438\
+      \u0437\u043C\u0435\u043D\u0451\u043D \u0441 (50%/70%/90%/110%) \u043D\u0430\
+      \ (50%/75%/100%/100%)"
+    type: Tweak
+  - message: "\u041E\u0442\u043A\u0430\u0442 \u0441\u0438\u0441\u0442\u0435\u043C\u044B\
+      \ \u0441\u043B\u0435\u0434\u043E\u0432"
+    type: Remove
+  id: 110
+  time: '2025-05-31T09:16:35.0000000+00:00'
+  url: https://github.com/RaytenCorp/Rayten/pull/276
