@@ -115,7 +115,7 @@
         base:
           True: {visible: false}
           False: { visible: true }
-  - type: ToggleableLightVisuals
+  - type: ToggleableVisuals
     spriteLayer: "blade"
     inhandVisuals:
       left:
