@@ -39,7 +39,7 @@
     thresholds:
     - trigger:
         !type:DamageTrigger
-        damage: 150
+        damage: 400
       behaviors:
       - !type:GibBehavior { }
   - type: SlowOnDamage #modified speeds because they're so weak
