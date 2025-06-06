@@ -129,6 +129,8 @@ namespace Content.Client.Entry
             _prototypeManager.RegisterIgnore("eventteam"); // Vanilla-eventteam
             _prototypeManager.RegisterIgnore("TDMMap"); // Rayten-TDM
             _prototypeManager.RegisterIgnore("ghostRoleRaffleDecider");
+            _prototypeManager.RegisterIgnore("codewordGenerator");
+            _prototypeManager.RegisterIgnore("codewordFaction");
 
             _componentFactory.GenerateNetIds();
             _adminManager.Initialize();
