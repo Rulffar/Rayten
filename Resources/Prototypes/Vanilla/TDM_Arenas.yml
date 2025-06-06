@@ -1,0 +1,13 @@
+- type: TDMMap
+  id: NightHouse
+  arena: Maps/Vanilla/TDM_NightHouse.yml
+  arenaparty: 20
+  blueteamgear:
+  - BlueTeamGearDefault
+  redteamgear:
+  - RedTeamGearDefault
+
+- type: gameMapPool
+  id: TeamDeathMatchMappool
+  maps:
+  - Empty
