@@ -29,3 +29,13 @@ hud-chatbox-channel-Server = Сервер
 hud-chatbox-channel-Visual = Визуальный
 hud-chatbox-channel-Damage = Повреждения
 hud-chatbox-channel-Unspecified = Неопределённый
+hud-chatbox-highlights = Подсветка:
+hud-chatbox-highlights-button = Применить
+hud-chatbox-highlights-tooltip =
+    Слова должны быть разделены переводом строки.
+    Если они заключены в кавычки ", они будут подсвечиваться
+    только при разделении пробелами или знаками препинания.
+hud-chatbox-highlights-placeholder =
+    Джордж Хайтауэр
+    "Хоп"
+    Медицинский
