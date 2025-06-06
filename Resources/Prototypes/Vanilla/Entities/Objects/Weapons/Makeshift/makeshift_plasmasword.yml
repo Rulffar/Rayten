@@ -17,15 +17,16 @@
       map: ["enum.ToggleableVisuals.Layer"]
   - type: GenericVisualizer
     visuals:
-      enum.ToggleableVisuals.Toggled:
+      enum.ToggleableVisuals.Enabled:
         enum.ToggleableVisuals.Layer:
           True: { visible: true }
           False: { visible: false }
+  - type: ItemTogglePointLight
+    toggleableVisualsColorModulatesLights: true
   - type: Item
     size: Small
     sprite: Vanilla/Objects/Weapons/Makeshift/makeshift_plasmasword_inhands.rsi
   - type: ItemToggle
-    predictable: false
     soundActivate:
       path: /Audio/Vanilla/Weapons/PlasmaSword/plasmasword_activate.ogg
       params:
@@ -112,7 +113,6 @@
     radius: 2.5
     color: blue
     netsync: false
-  - type: ItemTogglePointLight
   - type: Appearance
   - type: StaticPrice
     price: 1000
