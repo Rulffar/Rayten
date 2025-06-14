@@ -109,6 +109,11 @@
   sponsorOnly: true
   specialDesc:
     - Вы оделись в одежду другой команды?! Коварно...
+  skills:
+    RangeWeapon: 3
+    MeleeWeapon: 3
+    Medicine: 2
+    Crime: 3
   specials:
   - !type:EquipSpecial
     removeSlotID:
