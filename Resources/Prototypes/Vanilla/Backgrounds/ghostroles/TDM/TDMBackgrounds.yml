@@ -72,7 +72,6 @@
   sponsorOnly: false
   skills:
     RangeWeapon: 1
-    MeleeWeapon: 2
     Medicine: 3
     Chemistry: 3
   specialDesc:
@@ -195,6 +194,10 @@
   name: Медик
   description: А теперь попрактикуемся в медицине!
   sponsorOnly: false
+  skills:
+    RangeWeapon: 1
+    Medicine: 3
+    Chemistry: 3
   specialDesc:
     - У вас буквально нет оружия. Но зато у вас есть куча медицины и гипоспрей!
   specials:

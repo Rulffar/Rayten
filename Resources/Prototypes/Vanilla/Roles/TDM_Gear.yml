@@ -136,6 +136,7 @@
   parent: BlueTeamGearDefault
   storage:
     back:
+    - MagazineBoxAntiMateriel
     - MedicatedSuture
     - BruteAutoInjector
   inhand:
@@ -146,6 +147,7 @@
   parent: RedTeamGearDefault
   storage:
     back:
+    - MagazineBoxAntiMateriel
     - MedicatedSuture
     - BruteAutoInjector
   inhand:
