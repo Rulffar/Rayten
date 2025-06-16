@@ -26,8 +26,8 @@
       multiAntagSetting: NotExclusive
       startingGear: ThiefGear
       components:
-      # - type: AddSkillPoints
-      #   Points: 3
+      - type: AddSkillPoints
+        Points: 3
       # - type: Pacified
       # - type: Thieving
       #   stripTimeReduction: 2
