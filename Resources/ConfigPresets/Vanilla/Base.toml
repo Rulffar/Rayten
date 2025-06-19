@@ -57,6 +57,7 @@ enabled = true
 
 [auth]
 mode = 1
+server = "https://auth.fallback.spacestation14.com/"
 
 [viewport]
 maximum_width = 29
@@ -78,6 +79,3 @@ mob_pushing = true
 
 [events]
 enabled = true
-
-[auth]
-server = "https://auth.fallback.spacestation14.com/"
