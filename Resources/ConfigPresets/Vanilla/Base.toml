@@ -1,20 +1,9 @@
-[game]
-map_pool = "VanillaMapPool"
-panic_bunker.enabled = false
-contraband_examine = false
-lobbyenabled = true
-lobbyduration = 180
-round_restart_time = 180
-
 [log]
 path = "logs"
 format = "log_%(date)s-%(time)s.txt"
 level = 1
 enabled = true
 
-[net]
-tickrate = 30
-max_connections = 80
 
 [ic]
 punctuation = true
@@ -92,6 +81,3 @@ enabled = true
 
 [auth]
 server = "https://auth.fallback.spacestation14.com/"
-
-[hub]
-hub_urls = "https://hub.fallback.spacestation14.com/"
