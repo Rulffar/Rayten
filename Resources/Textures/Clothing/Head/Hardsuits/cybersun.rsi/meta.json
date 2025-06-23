@@ -6,52 +6,36 @@
         "x": 32,
         "y": 32
     },
-<<<<<<< HEAD
-    {
-      "name": "icon-flash"
-    },
-    {
-      "name": "off-equipped-HELMET",
-      "directions": 4
-    },
-    {
-      "name": "on-equipped-HELMET",
-      "directions": 4
-    },
-    {
-      "name": "off-equipped-HELMET-vox",
-      "directions": 4
-    },
-    {
-      "name": "on-equipped-HELMET-vox",
-      "directions": 4
-    },
-    {
-      "name": "equipped-HELMET-monkey",
-      "directions": 4
-    }
-  ]
-=======
     "states": [
         {
-            "name": "icon"
+          "name": "icon"
         },
         {
-            "name": "equipped-HELMET",
-            "directions": 4
+          "name": "icon-flash"
         },
         {
-            "name": "equipped-HELMET-vox",
-            "directions": 4
+          "name": "off-equipped-HELMET",
+          "directions": 4
         },
         {
-            "name": "equipped-HELMET-monkey",
-            "directions": 4
+          "name": "on-equipped-HELMET",
+          "directions": 4
+        },
+        {
+          "name": "off-equipped-HELMET-vox",
+          "directions": 4
+        },
+        {
+          "name": "on-equipped-HELMET-vox",
+          "directions": 4
+        },
+        {
+          "name": "equipped-HELMET-monkey",
+          "directions": 4
         },
         {
             "name": "equipped-HELMET-dog",
             "directions": 4
         }
     ]
->>>>>>> a77c24cc864a926e3dc103ca8bf0a9996d6648e4
 }
