@@ -61,6 +61,7 @@ public sealed class WhiteoutRuleSystem : GameRuleSystem<WhiteoutRuleComponent>
     [Dependency] private readonly ExplosionSystem _boom = default!;
     [Dependency] private readonly TagSystem _tagSystem = default!;
     [Dependency] private readonly ChatSystem _chat = default!;
+    [Dependency] private readonly TurfSystem _turf = default!;
 
     public override void Initialize()
     {
@@ -421,7 +422,7 @@ public sealed class WhiteoutRuleSystem : GameRuleSystem<WhiteoutRuleComponent>
                     continue;
 
                 var tileRef = grid.GetTileRef(tile);
-                var tileDef = tileRef.Tile.GetContentTileDefinition();
+                var tileDef = _turf.GetContentTileDefinition(tileRef);
 
                 if (tileRef.Tile.IsEmpty ||
                     tileDef.ID == "FloorSnowPlating" ||
