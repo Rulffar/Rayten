@@ -1,20 +1,14 @@
 using Content.Shared.Damage.Prototypes;
-using Content.Shared.StatusIcon;
 using Robust.Shared.GameStates;
 using Robust.Shared.Prototypes;
 
-namespace Content.Shared.Overlays;
+namespace Content.Shared.Vanilla.Overlays;
 
-/// <summary>
-/// This component allows you to see health bars above damageable mobs.
-/// </summary>
+//Rayten-start
 [RegisterComponent, NetworkedComponent]
 [AutoGenerateComponentState(true)]
-public sealed partial class ShowHealthBarsComponent : Component
+public sealed partial class ShowDominantDamageGroupIconComponent : Component
 {
-    /// <summary>
-    /// Displays health bars of the damage containers.
-    /// </summary>
     [DataField]
     [AutoNetworkedField]
     public List<ProtoId<DamageContainerPrototype>> DamageContainers = new()
@@ -22,3 +16,4 @@ public sealed partial class ShowHealthBarsComponent : Component
         "Biological"
     };
 }
+//Rayten-end
