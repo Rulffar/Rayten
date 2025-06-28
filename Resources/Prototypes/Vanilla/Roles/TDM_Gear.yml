@@ -99,9 +99,6 @@
     back:
     - MedicatedSuture
     - MedicatedSuture
-    - BruteAutoInjector
-    - BruteAutoInjector
-    - BruteAutoInjector
     - Stimpack
     - PuncturaseBeakerSmall
   inhand:
@@ -117,9 +114,6 @@
     back:
     - MedicatedSuture
     - MedicatedSuture
-    - BruteAutoInjector
-    - BruteAutoInjector
-    - BruteAutoInjector
     - Stimpack
     - PuncturaseBeakerSmall
   inhand:
