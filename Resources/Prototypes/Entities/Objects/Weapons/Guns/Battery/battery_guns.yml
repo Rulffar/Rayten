@@ -147,7 +147,7 @@
 
 - type: entity
   name: makeshift laser pistol
-  parent: [BaseWeaponBatterySmall, BaseMinorContraband]
+  parent: [BaseWeaponBatterySmall, FirstContraband]
   id: WeaponMakeshiftLaser
   description: Better pray it won't burn your hands off.
   components:
