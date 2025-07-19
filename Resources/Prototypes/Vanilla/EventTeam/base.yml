@@ -30,6 +30,7 @@
     nameSegments:
     - NamesMilitaryFirst
     - NamesMilitaryLast
+    nameFormat: name-format-standard
   - type: RandomHumanoidAppearance
     randomizeName: false
   - type: AntagImmune
@@ -43,3 +44,4 @@
     nameSegments:
     - NamesMilitaryFirstLeader
     - NamesMilitaryLast
+    nameFormat: name-format-standard
