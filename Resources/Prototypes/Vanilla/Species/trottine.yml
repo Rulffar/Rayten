@@ -1,6 +1,7 @@
 - type: species
   id: Trottine
   name: Троттин
+  sponsorOnly: true
   roundStart: true
   prototype: MobTrottine
   sprites:  MobTrottineSprites
