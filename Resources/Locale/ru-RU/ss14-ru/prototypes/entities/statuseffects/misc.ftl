@@ -12,4 +12,3 @@ ent-StatusEffectFriction = трение
     .desc = { ent-MobStatusEffectBase.desc }
 ent-StatusEffectSeeingRainbow = галлюцинации
     .desc = { ent-MobStatusEffectBase.desc }
-
