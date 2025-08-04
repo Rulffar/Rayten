@@ -1,0 +1,9 @@
+author: "thefuckmybrain"
+time: "2025-08-04T21:23:55.0000000+00:00"
+url: "https://github.com/RaytenCorp/Rayten/pull/337"
+changes:
+- &1051870050 type: &1047157987 "Add"
+  &473908033 message: "Добавлен прибор ночного видения"
+- type: "Add"
+  message: "Добавлена новая легенда"
+...
