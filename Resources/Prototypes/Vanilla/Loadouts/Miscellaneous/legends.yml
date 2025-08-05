@@ -36,13 +36,13 @@
       time: 72000 #20 hrs # Vanilla-RoleTime
 
 - type: loadout
-  id: PlushieZamiraBolshakova
+  id: PlushieJozephTexov
   storage:
     back:
-    - PlushieZamiraBolshakova
+    - PlushieJozephTexov
   effects:
   - !type:JobRequirementLoadoutEffect
     requirement:
       !type:RoleTimeRequirement
-      role: JobMime
+      role: JobAtmosphericTechnician
       time: 72000 #20 hrs # Vanilla-RoleTime
