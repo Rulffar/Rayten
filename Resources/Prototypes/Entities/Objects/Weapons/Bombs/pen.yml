@@ -10,7 +10,6 @@
     actualName: Взрывная ручка
     hiddenDesc: hidden-desc-PenExploding
     enemyTechnology: true
-  - type: OnUseTimerTrigger
   - type: TimerTrigger
     delay: 4
     examinable: false
