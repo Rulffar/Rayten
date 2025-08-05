@@ -112,3 +112,7 @@
   id: PlushieJozephTexov
   name: плюшевый Джозеф Техов
   description: По слухам, именно он изменил внешний вид более сотни предметов одним махом, используя загадочную технологию "респрайтинга".
+  components:
+  - type: Sprite
+    sprite: Vanilla/Objects/Fun/Plushies/Legends.rsi
+    state: plushie_joseph_techov
