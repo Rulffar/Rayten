@@ -1323,7 +1323,7 @@
     icon: { sprite: Interface/Actions/actions_borg.rsi, state: xenoborg-eye-module }
 
 - type: entity
-  parent: [ BaseXenoborgModuleStealth, BaseProviderBorgModule, BaseXenoborgContraband ]
+  parent: [ BaseXenoborgModuleStealth, BaseProviderBorgModule, XenoborgContraband ]
   id: XenoborgModuleSuperCloakDevice
   name: cloaking device xenoborg module
   description: Module with a device that allows xenoborgs to become truly invisible for less time.
