@@ -22,7 +22,6 @@
     keyOut: trigger
     examinable: false
     initialBeepDelay: 0
-    startOnStick: true
     beepSound:
       path: /Audio/Weapons/Guns/MagOut/pistol_magout.ogg
       params:
