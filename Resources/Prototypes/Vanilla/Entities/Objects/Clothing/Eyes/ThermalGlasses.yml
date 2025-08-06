@@ -42,7 +42,11 @@
   - type: ToggleCellDraw
   - type: IdentityBlocker
     coverage: EYES
-
+  - type: Tag
+    tags:
+    - ThermalGlasses
+    - PetWearable
+    - WhitelistChameleon
 
 - type: entity
   parent: [ ClothingEyesThermalGlassesBase, FirstEngineeringContraband ]
@@ -65,7 +69,10 @@
       cell_slot:
         name: power-cell-slot-component-slot-name-default
         startingItem: PowerCellMedium
-
+  - type: Tag
+    tags:
+    - ThermalGlasses
+    - PetWearable
 
 - type: entity
   parent: [ClothingEyesThermalGlassesBase, SecondSecurityContraband]
@@ -144,6 +151,9 @@
     - type: ShowHealthBars
     - type: ShowHealthIcons
     - type: ShowDominantDamageGroupIcon
+  - type: Construction
+    graph: MedSecThermalGlasses
+    node: medsecthermalglasses
 
 
 - type: entity
