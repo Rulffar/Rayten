@@ -12,6 +12,8 @@
       map: ["base"]
   - type: TimerTrigger
     delay: 2
+    keysIn:
+    - startTimer
     delayOptions: [2, 3, 4, 5, 6]
     initialBeepDelay: 0
     beepSound:
@@ -20,7 +22,8 @@
         pitch: 0.6
     startOnStick: true
     canToggleStartOnStick: true
-  - type: TimerStartOnSignal
+  - type: TriggerOnSignal
+    keyOut: startTimer
   - type: DeviceLinkSink
     ports:
       - Timer
