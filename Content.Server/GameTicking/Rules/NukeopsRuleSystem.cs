@@ -10,6 +10,7 @@ using Content.Server.Shuttles.Events;
 using Content.Server.Shuttles.Systems;
 using Content.Server.Station.Components;
 using Content.Server.Store.Systems;
+using Content.Shared.CombatMode.Pacification;
 using Content.Shared.GameTicking.Components;
 using Content.Shared.Mobs;
 using Content.Shared.Mobs.Components;
