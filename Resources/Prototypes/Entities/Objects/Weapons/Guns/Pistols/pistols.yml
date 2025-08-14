@@ -205,13 +205,9 @@
     - state: mag-0
       map: ["enum.GunVisualLayers.Mag"]
   - type: Clothing
-<<<<<<< HEAD
     sprite: Vanilla/Objects/Weapons/Guns/Pistols/mk58.rsi # Rayten-Resprites
-=======
-    sprite: Objects/Weapons/Guns/Pistols/mk58.rsi
   - type: Item
     storedOffset: 0,-2
->>>>>>> d939b4dec795ccdc5d94578153d14716ed86f753
   - type: Gun
     fireRate: 5
     availableModes:
