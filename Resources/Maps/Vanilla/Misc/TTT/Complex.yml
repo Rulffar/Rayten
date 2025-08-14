@@ -1623,9 +1623,6 @@ entities:
       rot: 3.141592653589793 rad
       pos: 26.5,11.5
       parent: 1
-    - type: Physics
-      canCollide: False
-      bodyType: Static
   - uid: 3786
     components:
     - type: Transform
@@ -13413,9 +13410,7 @@ entities:
       rot: 3.141592653589793 rad
       pos: 13.5,9.5
       parent: 1
-    - type: ActiveRadio
-      channels:
-      - Handheld
+
   - uid: 3873
     components:
     - type: Transform
