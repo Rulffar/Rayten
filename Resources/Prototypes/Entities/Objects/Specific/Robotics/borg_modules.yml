@@ -1243,7 +1243,7 @@
 
 - type: entity
   id: BorgModuleDoubleEsword
-  parent: [ BaseBorgModuleSyndicate, BaseProviderBorgModule, BaseSyndicateContraband ]
+  parent: [ BaseBorgModuleSyndicate, BaseProviderBorgModule, ThirdSyndicateContraband ]
   name: double energy sword cyborg module
   description: A weapons module that comes with a double energy sword.
   components:
@@ -1276,7 +1276,7 @@
     icon: { sprite: Interface/Actions/actions_borg.rsi, state: syndicate-l6c-module }
 
 - type: entity
-  parent: [ BaseBorgModuleSyndicateAssault, BaseProviderBorgModule, BaseSyndicateContraband ]
+  parent: [ BaseBorgModuleSyndicateAssault, BaseProviderBorgModule, ThirdSyndicateContraband ]
   id: BorgModuleC20r
   name: C20-r ROW cyborg module
   description: A weapons module that comes with a burst-fire C-20r.

@@ -40,8 +40,8 @@ public sealed class MindShieldSystem : EntitySystem
         if (ev.Implanted == null)
             return;
 
-        EnsureComp<MemoryShieldComponent>(ev.Implanted.Value);
-        MindShieldRemovalCheck(ev.Implanted.Value, ev.Implant);
+        EnsureComp<MemoryShieldComponent>(ev.Implanted);
+        MindShieldRemovalCheck(ev.Implanted, ev.Implant);
     }
 
     private void OnMEMImplantRemoved(Entity<MemoryShieldImplantComponent> ent, ref ImplantRemovedEvent args)

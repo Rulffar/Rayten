@@ -198,36 +198,26 @@
   name: storage implanter
   parent: BaseImplantOnlyImplanterSyndi
   components:
-<<<<<<< HEAD
-    - type: Competitive #Rayten
-      difficult: 2
-      actualName: Имплантер хранилища
-      hiddenDesc: hidden-desc-StorageImplanter
-      enemyTechnology: true
-    - type: Implanter
-      implant: StorageImplant
-=======
+  - type: Competitive #Rayten
+    difficult: 2
+    actualName: Имплантер хранилища
+    hiddenDesc: hidden-desc-StorageImplanter
+    enemyTechnology: true
   - type: Implanter
     implant: StorageImplant
->>>>>>> 2bbff7f8c0c492c418d3330276b977fe72b7ad44
 
 - type: entity
   id: FreedomImplanter
   name: freedom implanter
   parent: BaseImplantOnlyImplanterSyndi
   components:
-<<<<<<< HEAD
-    - type: Competitive #Rayten
-      difficult: 2
-      actualName: Имплантер свободы
-      hiddenDesc: hidden-desc-FreedomImplanter
-      enemyTechnology: true
-    - type: Implanter
-      implant: FreedomImplant
-=======
+  - type: Competitive #Rayten
+    difficult: 2
+    actualName: Имплантер свободы
+    hiddenDesc: hidden-desc-FreedomImplanter
+    enemyTechnology: true
   - type: Implanter
     implant: FreedomImplant
->>>>>>> 2bbff7f8c0c492c418d3330276b977fe72b7ad44
 
 - type: entity
   id: RadioImplanter
@@ -260,54 +250,39 @@
   name: EMP implanter
   parent: BaseImplantOnlyImplanterSyndi
   components:
-<<<<<<< HEAD
-    - type: Competitive #Rayten
-      difficult: 2
-      actualName: Имплантер ЭМИ
-      hiddenDesc: hidden-desc-EmpImplanter
-      enemyTechnology: true
-    - type: Implanter
-      implant: EmpImplant
-=======
+  - type: Competitive #Rayten
+    difficult: 2
+    actualName: Имплантер ЭМИ
+    hiddenDesc: hidden-desc-EmpImplanter
+    enemyTechnology: true
   - type: Implanter
     implant: EmpImplant
->>>>>>> 2bbff7f8c0c492c418d3330276b977fe72b7ad44
 
 - type: entity
   id: ScramImplanter
   name: scram implanter
   parent: BaseImplantOnlyImplanterSyndi
   components:
-<<<<<<< HEAD
-    - type: Competitive #Rayten
-      difficult: 2
-      actualName: Имплантер побега
-      hiddenDesc: hidden-desc-ScramImplanter
-      enemyTechnology: true
-    - type: Implanter
-      implant: ScramImplant
-=======
+  - type: Competitive #Rayten
+    difficult: 2
+    actualName: Имплантер побега
+    hiddenDesc: hidden-desc-ScramImplanter
+    enemyTechnology: true
   - type: Implanter
     implant: ScramImplant
->>>>>>> 2bbff7f8c0c492c418d3330276b977fe72b7ad44
 
 - type: entity
   id: DnaScramblerImplanter
   name: DNA scrambler implanter
   parent: BaseImplantOnlyImplanterSyndi
   components:
-<<<<<<< HEAD
-    - type: Competitive #Rayten
-      difficult: 2
-      actualName: Имплантер миксер ДНК
-      hiddenDesc: hidden-desc-DnaScramblerImplanter
-      enemyTechnology: true
-    - type: Implanter
-      implant: DnaScramblerImplant
-=======
+  - type: Competitive #Rayten
+    difficult: 2
+    actualName: Имплантер миксер ДНК
+    hiddenDesc: hidden-desc-DnaScramblerImplanter
+    enemyTechnology: true
   - type: Implanter
     implant: DnaScramblerImplant
->>>>>>> 2bbff7f8c0c492c418d3330276b977fe72b7ad44
 
 - type: entity
   id: ChameleonControllerImplanter
@@ -329,54 +304,39 @@
   name: micro-bomb implanter
   parent: BaseImplantOnlyImplanterSyndi
   components:
-<<<<<<< HEAD
-    - type: Competitive #Rayten
-      difficult: 3
-      actualName: Имплантер микробомбы
-      hiddenDesc: hidden-desc-MicroBombImplanter
-      enemyTechnology: true
-    - type: Implanter
-      implant: MicroBombImplant
-=======
+  - type: Competitive #Rayten
+    difficult: 3
+    actualName: Имплантер микробомбы
+    hiddenDesc: hidden-desc-MicroBombImplanter
+    enemyTechnology: true
   - type: Implanter
     implant: MicroBombImplant
->>>>>>> 2bbff7f8c0c492c418d3330276b977fe72b7ad44
 
 - type: entity
   id: MacroBombImplanter
   name: macro-bomb implanter
   parent: BaseImplantOnlyImplanterSyndi
   components:
-<<<<<<< HEAD
-    - type: Competitive #Rayten
-      difficult: 3
-      actualName: Имплантер макробомбы
-      hiddenDesc: hidden-desc-MacroBombImplanter
-      enemyTechnology: true
-    - type: Implanter
-      implant: MacroBombImplant
-=======
+  - type: Competitive #Rayten
+    difficult: 3
+    actualName: Имплантер макробомбы
+    hiddenDesc: hidden-desc-MacroBombImplanter
+    enemyTechnology: true
   - type: Implanter
     implant: MacroBombImplant
->>>>>>> 2bbff7f8c0c492c418d3330276b977fe72b7ad44
 
 - type: entity
   id: DeathRattleImplanter
   name: death rattle implanter
   parent: BaseImplantOnlyImplanterSyndi
   components:
-<<<<<<< HEAD
-    - type: Competitive #Rayten
-      difficult: 1
-      actualName: Имплантер предсмертного хрипа
-      hiddenDesc: hidden-desc-DeathRattleImplanter
-      enemyTechnology: true
-    - type: Implanter
-      implant: DeathRattleImplant
-=======
+  - type: Competitive #Rayten
+    difficult: 1
+    actualName: Имплантер предсмертного хрипа
+    hiddenDesc: hidden-desc-DeathRattleImplanter
+    enemyTechnology: true
   - type: Implanter
     implant: DeathRattleImplant
->>>>>>> 2bbff7f8c0c492c418d3330276b977fe72b7ad44
 
 - type: entity
   id: DeathAcidifierImplanter
