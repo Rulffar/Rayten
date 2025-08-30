@@ -18,6 +18,8 @@
   # traits
   - BlackAndWhiteOverlay
   - Clumsy
+  - Hemophilia
+  - ImpairedMobility
   # - LegsParalyzed (you get healed)
   - LightweightDrunk
   - Muted
