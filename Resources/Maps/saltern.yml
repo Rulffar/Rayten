@@ -33130,7 +33130,7 @@ entities:
       parent: 2
     - type: FaxMachine
       name: Library
-  - uid: 8994
+  - uid: 899422
     components:
     - type: Transform
       pos: 13.5,12.5
@@ -33145,7 +33145,7 @@ entities:
       parent: 2
     - type: FaxMachine
       name: HoP's office
-  - uid: 10825
+  - uid: 108251
     components:
     - type: Transform
       pos: 1.5,32.5
