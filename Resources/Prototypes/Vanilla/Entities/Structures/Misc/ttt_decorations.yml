@@ -3,6 +3,7 @@
   components:
   - type: SignalOnTrigger
   - type: DeleteOnTrigger
+  - type: DeviceLinkSource
   - type: RepeatingTrigger
     delay: 300
   - type: AutoLinkTransmitter
