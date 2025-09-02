@@ -678,9 +678,6 @@ SpawnHonkBot: SpawnMobHonkBot
 CrateFoodPizzaLarge: CrateFoodPizza
 CrateFoodSoftdrinksLarge: CrateFoodSoftdrinks
 
-# RAYTEN - NOPHONES
-PhoneInstrumentSyndicate: null
-PhoneInstrument: null
 # 2025-06-06
 MagazineLightRifleMaxim: null
 MagazineLightRiflePkBox: null
