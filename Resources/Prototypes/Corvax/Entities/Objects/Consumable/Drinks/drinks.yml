@@ -1,5 +1,5 @@
 - type: entity
-  parent: DrinkGlass
+  parent: [DrinkBaseMaterialGlass, DrinkBase, DrinkVisualsFillOverlay]
   id: DrinkAlexanderGlass
   suffix: alexander
   components:
@@ -16,7 +16,7 @@
     state: icon
 
 - type: entity
-  parent: DrinkGlass
+  parent: [DrinkBaseMaterialGlass, DrinkBase, DrinkVisualsFillOverlay]
   id: DrinkBadTouchGlass
   suffix: bad touch
   components:
@@ -33,7 +33,7 @@
     state: icon
 
 - type: entity
-  parent: DrinkGlass
+  parent: [DrinkBaseMaterialGlass, DrinkBase, DrinkVisualsFillOverlay]
   id: DrinkBoyarskyGlass
   suffix: boyarsky
   components:
@@ -50,7 +50,7 @@
     state: icon
 
 - type: entity
-  parent: DrinkGlass
+  parent: [DrinkBaseMaterialGlass, DrinkBase, DrinkVisualsFillOverlay]
   id: DrinkBrambleGlass
   suffix: bramble
   components:
@@ -67,7 +67,7 @@
     state: icon
 
 - type: entity
-  parent: DrinkGlass
+  parent: [DrinkBaseMaterialGlass, DrinkBase, DrinkVisualsFillOverlay]
   id: DrinkDaiquiriGlass
   suffix: daiquiri
   components:
@@ -84,7 +84,7 @@
     state: icon
 
 - type: entity
-  parent: DrinkGlass
+  parent: [DrinkBaseMaterialGlass, DrinkBase, DrinkVisualsFillOverlay]
   id: DrinkDarkAndStormyGlass
   suffix: dark and stormy
   components:
@@ -101,7 +101,7 @@
     state: icon
 
 - type: entity
-  parent: DrinkGlass
+  parent: [DrinkBaseMaterialGlass, DrinkBase, DrinkVisualsFillOverlay]
   id: DrinkEspressoMartiniGlass
   suffix: espresso martini
   components:
@@ -118,7 +118,7 @@
     state: icon
 
 - type: entity
-  parent: DrinkGlassBase
+  parent: [DrinkBaseMaterialGlass, DrinkBase, DrinkVisualsFillOverlay]Base
   id: DrinkKvassGlass
   suffix: kvass
   components:
@@ -133,7 +133,7 @@
       sprite: Corvax/Objects/Consumable/Drinks/kvass.rsi
 
 - type: entity
-  parent: DrinkGlass
+  parent: [DrinkBaseMaterialGlass, DrinkBase, DrinkVisualsFillOverlay]
   id: DrinkMaiTaiGlass
   suffix: mai tai
   components:
@@ -150,7 +150,7 @@
     state: icon
 
 - type: entity
-  parent: DrinkGlass
+  parent: [DrinkBaseMaterialGlass, DrinkBase, DrinkVisualsFillOverlay]
   id: DrinkMoscowMuleGlass
   suffix: moscow mule
   components:
@@ -167,7 +167,7 @@
     state: icon
 
 - type: entity
-  parent: DrinkGlass
+  parent: [DrinkBaseMaterialGlass, DrinkBase, DrinkVisualsFillOverlay]
   id: DrinkNegroniGlass
   suffix: negroni
   components:
@@ -184,7 +184,7 @@
     state: icon
 
 - type: entity
-  parent: DrinkGlass
+  parent: [DrinkBaseMaterialGlass, DrinkBase, DrinkVisualsFillOverlay]
   id: DrinkOldFashionedGlass
   suffix: old fashioned
   components:
@@ -201,7 +201,7 @@
     state: icon
 
 - type: entity
-  parent: DrinkGlass
+  parent: [DrinkBaseMaterialGlass, DrinkBase, DrinkVisualsFillOverlay]
   id: DrinkPalomaGlass
   suffix: paloma
   components:
@@ -218,7 +218,7 @@
     state: icon
 
 - type: entity
-  parent: DrinkGlass
+  parent: [DrinkBaseMaterialGlass, DrinkBase, DrinkVisualsFillOverlay]
   id: DrinkYorshGlass
   suffix: yorsh
   components:
