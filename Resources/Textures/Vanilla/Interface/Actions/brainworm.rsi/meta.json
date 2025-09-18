@@ -24,6 +24,9 @@
         },
         {
             "name": "chemicals"
+        },
+        {
+            "name": "insertbrain"
         }
     ]
 }
