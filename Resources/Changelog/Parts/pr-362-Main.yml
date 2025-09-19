@@ -1,0 +1,9 @@
+author: "yaroslav323232, lubitel_nyuki, mery_wi"
+time: "2025-09-19T23:10:59.0000000+00:00"
+url: "https://github.com/RaytenCorp/Rayten/pull/362"
+changes:
+- &1082257126 type: &1353520701 "Add"
+  &1276956530 message: "Добавлено две новые карты для ТДМ/ТТТ"
+- type: "Add"
+  message: "Обновление старой карты офис"
+...
