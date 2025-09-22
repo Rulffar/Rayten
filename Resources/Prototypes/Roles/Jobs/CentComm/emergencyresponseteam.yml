@@ -55,7 +55,15 @@
     - LogProbeCartridge
     - PhoneInstrument
   inhand:
-  - WeaponPulseCarbine
+  - WeaponRifleLecterXL8
+  storage:
+    back:
+    - WeaponDisabler
+    - MedicatedSuture
+    - RegenerativeMesh
+    - BoxZiptie
+    - CrowbarRed
+    - MagazineMagnum
 
 - type: chameleonOutfit
   id: ERTLeaderChameleonOutfit
