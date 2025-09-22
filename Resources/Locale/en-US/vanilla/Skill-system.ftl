@@ -1,9 +1,9 @@
 Skill-issue-message-medicine-unskilled = Требуется { $lvl } ур. медицины
 Skill-issue-message-chemistry-unskilled = Требуется { $lvl } ур. химии
 Skill-issue-message-rangeweapon-unskilled = Требуется { $lvl } ур. стрельбы
-Skill-issue-message-rangeweapon-unskilled = Требуется { $lvl } ур. ближнего боя
+Skill-issue-message-meleeweapon-unskilled = Требуется { $lvl } ур. ближнего боя
 Skill-issue-message-engineering-unskilled = Требуется { $lvl } ур. инженерии
-Skill-issue-message-rangeweapon-unskilled = Требуется { $lvl } ур. преступности
+Skill-issue-message-crime-unskilled = Требуется { $lvl } ур. преступности
 
 Skill-issue-easyskill-message-piloting-unskilled = Требуется навык пилотирования.
 Skill-issue-easyskill-message-botany-unskilled = Требуется навык ботаники.
