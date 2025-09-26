@@ -1,0 +1,14 @@
+marking-VSUndergarmentTopTanktopVulpkanin = Топ
+marking-VSUndergarmentTopTanktopVulpkanin-tanktop_vulpkanin = Топ
+marking-VSUndergarmentTopBinderVulpkanin = Биндер
+marking-VSUndergarmentTopBinderVulpkanin-binder_vulpkanin = Биндер
+marking-VSUndergarmentTopBraVulpkanin = Классический бюстгальтер
+marking-VSUndergarmentTopBraVulpkanin-classic_vulpkanin = Классический бюстгальтер
+marking-VSUndergarmentTopSportsbraVulpkanin = Спортивный бюстгальтер
+marking-VSUndergarmentTopSportsbraVulpkanin-sports_vulpkanin = Спортивный бюстгальтер
+marking-VSUndergarmentBottomBoxersVulpkanin = Боксеры
+marking-VSUndergarmentBottomBoxersVulpkanin-boxers_vulpkanin = Боксеры
+marking-VSUndergarmentBottomBriefsVulpkanin = Трусы
+marking-VSUndergarmentBottomBriefsVulpkanin-briefs_vulpkanin = Трусы
+marking-VSUndergarmentBottomSatinVulpkanin = Атласные трусы
+marking-VSUndergarmentBottomSatinVulpkanin-satin_vulpkanin = Атласные трусы
