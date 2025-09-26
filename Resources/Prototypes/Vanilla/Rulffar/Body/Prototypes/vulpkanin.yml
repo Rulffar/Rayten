@@ -1,0 +1,49 @@
+﻿- type: body
+  id: VSVulpkanin
+  name: fuchswolf
+  root: torso
+  slots:
+    head:
+      part: VSHeadVulpkanin
+      connections:
+      - torso
+      organs:
+        brain: OrganHumanBrain
+        eyes: OrganHumanEyes
+    torso:
+      part: VSTorsoVulpkanin
+      connections:
+      - right arm
+      - left arm
+      - right leg
+      - left leg
+      organs:
+        heart: OrganAnimalHeart
+        lungs: OrganHumanLungs
+        stomach: OrganAnimalStomach
+        liver: OrganAnimalLiver
+        kidneys: OrganHumanKidneys
+    right arm:
+      part: VSRightArmVulpkanin
+      connections:
+      - right hand
+    left arm:
+      part: VSLeftArmVulpkanin
+      connections:
+      - left hand
+    right hand:
+      part: VSRightHandVulpkanin
+    left hand:
+      part: VSLeftHandVulpkanin
+    right leg:
+      part: VSRightLegVulpkanin
+      connections:
+      - right foot
+    left leg:
+      part: VSLeftLegVulpkanin
+      connections:
+      - left foot
+    right foot:
+      part: VSRightFootVulpkanin
+    left foot:
+      part: VSLeftFootVulpkanin

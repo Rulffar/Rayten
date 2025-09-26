@@ -1,0 +1,5 @@
+- type: damageModifierSet
+  id: VSVulpkanin
+  coefficients:
+    Heat: 1.15
+    Cold: 0.85

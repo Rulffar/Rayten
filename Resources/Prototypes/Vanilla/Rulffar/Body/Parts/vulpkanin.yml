@@ -1,0 +1,89 @@
+# Limbs that spawn when gibbed should get descriptions.
+- type: entity
+  abstract: true
+  parent: [ BasePart ]
+  id: VSPartVulpkanin
+  name: vulpkanin body part
+  components:
+  - type: Sprite
+    sprite: Vanilla/Mobs/Species/Vulpkanin/parts.rsi
+
+- type: entity
+  parent: [ PartVulpkanin, BaseTorso ]
+  id: VSTorsoVulpkanin
+  name: vulpkanin torso
+  components:
+  - type: Sprite
+    state: torso_m
+
+- type: entity
+  parent: [ PartVulpkanin, BaseHead ]
+  id: VSHeadVulpkanin
+  name: vulpkanin head
+  components:
+  - type: Sprite
+    state: head_m
+
+- type: entity
+  parent: [ PartVulpkanin, BaseLeftArm ]
+  id: VSLeftArmVulpkanin
+  name: left vulpkanin arm
+  components:
+  - type: Sprite
+    state: l_arm
+
+- type: entity
+  parent: [ PartVulpkanin, BaseRightArm ]
+  id: VSRightArmVulpkanin
+  name: right vulpkanin arm
+  components:
+  - type: Sprite
+    state: r_arm
+
+- type: entity
+  parent: [ PartVulpkanin, BaseLeftHand ]
+  id: VSLeftHandVulpkanin
+  name: left vulpkanin hand
+  components:
+  - type: Sprite
+    state: l_hand
+
+- type: entity
+  parent: [ PartVulpkanin, BaseRightHand ]
+  id: VSRightHandVulpkanin
+  name: right vulpkanin hand
+  components:
+  - type: Sprite
+    state: r_hand
+
+- type: entity
+  parent: [ PartVulpkanin, BaseLeftLeg ]
+  id: VSLeftLegVulpkanin
+  name: left vulpkanin leg
+  components:
+  - type: Sprite
+    state: l_leg
+
+- type: entity
+  parent: [ PartVulpkanin, BaseRightLeg ]
+  id: VSRightLegVulpkanin
+  name: right vulpkanin leg
+  components:
+  - type: Sprite
+    state: r_leg
+
+- type: entity
+  parent: [ PartVulpkanin, BaseLeftFoot ]
+  id: VSLeftFootVulpkanin
+  name: left vulpkanin foot
+  components:
+  - type: Sprite
+    state: l_foot
+
+- type: entity
+  parent: [ PartVulpkanin, BaseRightFoot ]
+  id: VSRightFootVulpkanin
+  name: right vulpkanin foot
+  components:
+  - type: Sprite
+    state: r_foot

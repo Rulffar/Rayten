@@ -1,0 +1,91 @@
+- type: marking
+  id: VSUndergarmentBottomBoxersVulpkanin
+  bodyPart: UndergarmentBottom
+  markingCategory: UndergarmentBottom
+  speciesRestriction: [VSVulpkanin]
+  coloring:
+    default:
+      type: null
+      fallbackColor: '#FFFFFF'
+  sprites:
+  - sprite: Mobs/Customization/undergarments.rsi
+    state: boxers
+
+- type: marking
+  id: VSUndergarmentBottomBriefsVulpkanin
+  bodyPart: UndergarmentBottom
+  markingCategory: UndergarmentBottom
+  speciesRestriction: [VSVulpkanin]
+  coloring:
+    default:
+      type: null
+      fallbackColor: '#FFFFFF'
+  sprites:
+  - sprite: Mobs/Customization/undergarments.rsi
+    state: briefs
+
+- type: marking
+  id: VSUndergarmentBottomSatinVulpkanin
+  bodyPart: UndergarmentBottom
+  markingCategory: UndergarmentBottom
+  speciesRestriction: [VSVulpkanin]
+  coloring:
+    default:
+      type: null
+      fallbackColor: '#FFFFFF'
+  sprites:
+  - sprite: Mobs/Customization/undergarments.rsi
+    state: satin
+
+- type: marking
+  id: VSUndergarmentTopBraVulpkanin
+  bodyPart: UndergarmentTop
+  markingCategory: UndergarmentTop
+  speciesRestriction: [VSVulpkanin]
+  coloring:
+    default:
+      type: null
+      fallbackColor: '#FFFFFF'
+  sprites:
+  - sprite: Mobs/Customization/undergarments.rsi
+    state: classic
+
+- type: marking
+  id: VSUndergarmentTopSportsbraVulpkanin
+  bodyPart: UndergarmentTop
+  markingCategory: UndergarmentTop
+  speciesRestriction: [VSVulpkanin]
+  coloring:
+    default:
+      type: null
+      fallbackColor: '#FFFFFF'
+  sprites:
+  - sprite: Mobs/Customization/undergarments.rsi
+    state: sports
+
+- type: marking
+  id: VSUndergarmentTopBinderVulpkanin
+  bodyPart: UndergarmentTop
+  markingCategory: UndergarmentTop
+  speciesRestriction: [VSVulpkanin]
+  coloring:
+    default:
+      type: null
+      fallbackColor: '#FFFFFF'
+  sprites:
+  - sprite: Mobs/Customization/undergarments.rsi
+    state: binder
+
+- type: marking
+  id: VSUndergarmentTopTanktopVulpkanin
+  bodyPart: UndergarmentTop
+  markingCategory: UndergarmentTop
+  speciesRestriction: [VSVulpkanin]
+  coloring:
+    default:
+      type: null
+      fallbackColor: '#FFFFFF'
+  sprites:
+  - sprite: Mobs/Customization/undergarments.rsi
+    state: tanktop
+    

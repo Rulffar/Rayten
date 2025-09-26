@@ -1,0 +1,109 @@
+# Snout Markings
+
+- type: marking
+  id: VSVulpSnout
+  bodyPart: Snout
+  markingCategory: Snout
+  speciesRestriction: [ VSVulpkanin ]
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/snout_markings.rsi
+      state: snout
+
+- type: marking
+  id: VSVulpSnoutNose
+  bodyPart: Snout
+  markingCategory: SnoutCover
+  speciesRestriction: [ VSVulpkanin ]
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/snout_markings.rsi
+      state: snout-nose
+
+- type: marking
+  id: VSVulpSnoutVulpine
+  bodyPart: Snout
+  markingCategory: SnoutCover
+  speciesRestriction: [ VSVulpkanin ]
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/snout_markings.rsi
+      state: vulpine
+
+- type: marking
+  id: VSVulpSnoutVulpineLines
+  bodyPart: Snout
+  markingCategory: SnoutCover
+  speciesRestriction: [ VSVulpkanin ]
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/snout_markings.rsi
+      state: vulpine-lines
+
+- type: marking
+  id: VSVulpSnoutBlaze
+  bodyPart: Snout
+  markingCategory: SnoutCover
+  speciesRestriction: [ VSVulpkanin ]
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/snout_markings.rsi
+      state: blaze
+
+- type: marking
+  id: VSVulpSnoutMask
+  bodyPart: Snout
+  markingCategory: SnoutCover
+  speciesRestriction: [ VSVulpkanin ]
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/snout_markings.rsi
+      state: mask
+
+- type: marking
+  id: VSVulpSnoutTop
+  bodyPart: Snout
+  markingCategory: SnoutCover
+  speciesRestriction: [ VSVulpkanin ]
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/snout_markings.rsi
+      state: snout-top
+
+- type: marking
+  id: VSVulpSnoutPatch
+  bodyPart: Snout
+  markingCategory: SnoutCover
+  speciesRestriction: [ VSVulpkanin ]
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/snout_markings.rsi
+      state: patch
+
+- type: marking
+  id: VSVulpSnoutMuzzle
+  bodyPart: Snout
+  markingCategory: SnoutCover
+  speciesRestriction: [ VSVulpkanin ]
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/snout_markings.rsi
+      state: muzzle
+
+- type: marking
+  id: VSVulpSnoutMuzzleAlt
+  bodyPart: Snout
+  markingCategory: SnoutCover
+  speciesRestriction: [ VSVulpkanin ]
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/snout_markings.rsi
+      state: muzzle_alt
+
+- type: marking
+  id: VSVulpSnoutMuzzleFade
+  bodyPart: Snout
+  markingCategory: SnoutCover
+  speciesRestriction: [ VSVulpkanin ]
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/snout_markings.rsi
+      state: muzzle_fade
+
+- type: marking
+  id: VSVulpSnoutMuzzleSharp
+  bodyPart: Snout
+  markingCategory: SnoutCover
+  speciesRestriction: [ VSVulpkanin ]
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/snout_markings.rsi
+      state: muzzle_sharp

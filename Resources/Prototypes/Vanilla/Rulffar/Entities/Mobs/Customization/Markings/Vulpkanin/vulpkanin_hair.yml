@@ -1,0 +1,261 @@
+# Hairs
+- type: marking
+  id: VSVulpHairAdhara
+  bodyPart: Hair
+  speciesRestriction: [ VSVulpkanin ]
+  markingCategory: Hair
+  canBeDisplaced: false
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/hair.rsi
+      state: adhara
+
+- type: marking
+  id: VSVulpHairAnita
+  bodyPart: Hair
+  speciesRestriction: [ VSVulpkanin ]
+  markingCategory: Hair
+  canBeDisplaced: false
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/hair.rsi
+      state: anita
+
+- type: marking
+  id: VSVulpHairApollo
+  bodyPart: Hair
+  speciesRestriction: [ VSVulpkanin ]
+  markingCategory: Hair
+  canBeDisplaced: false
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/hair.rsi
+      state: apollo
+
+- type: marking
+  id: VSVulpHairBelle
+  bodyPart: Hair
+  speciesRestriction: [ VSVulpkanin ]
+  markingCategory: Hair
+  canBeDisplaced: false
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/hair.rsi
+      state: belle
+
+- type: marking
+  id: VSVulpHairBraided
+  bodyPart: Hair
+  markingCategory: Hair
+  canBeDisplaced: false
+  speciesRestriction: [ VSVulpkanin ]
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/hair.rsi
+      state: braided
+
+- type: marking
+  id: VSVulpHairBun
+  bodyPart: Hair
+  markingCategory: Hair
+  canBeDisplaced: false
+  speciesRestriction: [ VSVulpkanin ]
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/hair.rsi
+      state: bun
+
+- type: marking
+  id: VSVulpHairCleanCut
+  bodyPart: Hair
+  markingCategory: Hair
+  canBeDisplaced: false
+  speciesRestriction: [ VSVulpkanin ]
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/hair.rsi
+      state: clean_cut
+
+- type: marking
+  id: VSVulpHairCurl
+  bodyPart: Hair
+  markingCategory: Hair
+  canBeDisplaced: false
+  speciesRestriction: [ VSVulpkanin ]
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/hair.rsi
+      state: curl
+
+- type: marking
+  id: VSVulpHairHawk
+  bodyPart: Hair
+  markingCategory: Hair
+  canBeDisplaced: false
+  speciesRestriction: [ VSVulpkanin ]
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/hair.rsi
+      state: hawk
+
+- type: marking
+  id: VSVulpHairJagged
+  bodyPart: Hair
+  markingCategory: Hair
+  canBeDisplaced: false
+  speciesRestriction: [ VSVulpkanin ]
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/hair.rsi
+      state: jagged
+
+- type: marking
+  id: VSVulpHairJeremy
+  bodyPart: Hair
+  markingCategory: Hair
+  canBeDisplaced: false
+  speciesRestriction: [ VSVulpkanin ]
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/hair.rsi
+      state: jeremy
+
+- type: marking
+  id: VSVulpHairKajam
+  bodyPart: Hair
+  markingCategory: Hair
+  canBeDisplaced: false
+  speciesRestriction: [ VSVulpkanin ]
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/hair.rsi
+      state: kajam
+
+- type: marking
+  id: VSVulpHairKeid
+  bodyPart: Hair
+  markingCategory: Hair
+  canBeDisplaced: false
+  speciesRestriction: [ VSVulpkanin ]
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/hair.rsi
+      state: keid
+
+- type: marking
+  id: VSVulpHairKleeia
+  bodyPart: Hair
+  markingCategory: Hair
+  canBeDisplaced: false
+  speciesRestriction: [ VSVulpkanin ]
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/hair.rsi
+      state: kleeia
+
+- type: marking
+  id: VSVulpHairMizar
+  bodyPart: Hair
+  markingCategory: Hair
+  canBeDisplaced: false
+  speciesRestriction: [ VSVulpkanin ]
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/hair.rsi
+      state: mizar
+
+- type: marking
+  id: VSVulpHairPunkBraided
+  bodyPart: Hair
+  markingCategory: Hair
+  canBeDisplaced: false
+  speciesRestriction: [ VSVulpkanin ]
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/hair.rsi
+      state: punkbraided
+
+- type: marking
+  id: VSVulpHairRaine
+  bodyPart: Hair
+  markingCategory: Hair
+  canBeDisplaced: false
+  speciesRestriction: [ VSVulpkanin ]
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/hair.rsi
+      state: raine
+
+- type: marking
+  id: VSVulpHairRough
+  bodyPart: Hair
+  markingCategory: Hair
+  canBeDisplaced: false
+  speciesRestriction: [ VSVulpkanin ]
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/hair.rsi
+      state: rough
+
+- type: marking
+  id: VSVulpHairShort
+  bodyPart: Hair
+  markingCategory: Hair
+  canBeDisplaced: false
+  speciesRestriction: [ VSVulpkanin ]
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/hair.rsi
+      state: short
+
+- type: marking
+  id: VSVulpHairShort2
+  bodyPart: Hair
+  markingCategory: Hair
+  canBeDisplaced: false
+  speciesRestriction: [ VSVulpkanin ]
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/hair.rsi
+      state: short2
+
+- type: marking
+  id: VSVulpHairSpike
+  bodyPart: Hair
+  markingCategory: Hair
+  canBeDisplaced: false
+  speciesRestriction: [ VSVulpkanin ]
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/hair.rsi
+      state: spike
+
+# Facial Hairs
+- type: marking
+  id: VSVulpFacialHairRuff
+  bodyPart: FacialHair
+  markingCategory: FacialHair
+  speciesRestriction: [ VSVulpkanin ]
+  canBeDisplaced: false
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/facial_hair.rsi
+      state: ruff
+
+- type: marking
+  id: VSVulpFacialHairElder
+  bodyPart: FacialHair
+  markingCategory: FacialHair
+  speciesRestriction: [ VSVulpkanin ]
+  canBeDisplaced: false
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/facial_hair.rsi
+      state: elder
+
+- type: marking
+  id: VSVulpFacialHairElderChin
+  bodyPart: FacialHair
+  markingCategory: FacialHair
+  speciesRestriction: [ VSVulpkanin ]
+  canBeDisplaced: false
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/facial_hair.rsi
+      state: elder_chin
+
+- type: marking
+  id: VSVulpFacialHairKita
+  bodyPart: FacialHair
+  markingCategory: FacialHair
+  speciesRestriction: [ VSVulpkanin ]
+  canBeDisplaced: false
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/facial_hair.rsi
+      state: kita
+
+- type: marking
+  id: VSVulpFacialHairGoatee
+  bodyPart: FacialHair
+  markingCategory: FacialHair
+  speciesRestriction: [ VSVulpkanin ]
+  canBeDisplaced: false
+  sprites:
+  - sprite: Vanilla/Mobs/Customization/Vulpkanin/facial_hair.rsi
+    state: goatee

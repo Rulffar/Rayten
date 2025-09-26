@@ -1,0 +1,71 @@
+- type: marking
+  id: VSVulpPointsCrestArms
+  markingCategory: Arms
+  bodyPart: LArm
+  speciesRestriction: [ VSVulpkanin ]
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/body_markings.rsi
+      state: points_crest-arms
+
+- type: marking
+  id: VSVulpPointsFadeArms
+  markingCategory: Arms
+  bodyPart: LArm
+  speciesRestriction: [ VSVulpkanin ]
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/body_markings.rsi
+      state: points_fade-arms
+
+- type: marking
+  id: VSVulpPointsHands
+  markingCategory: Arms
+  bodyPart: RHand
+  speciesRestriction: [ VSVulpkanin ]
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/body_markings.rsi
+      state: points_hands
+
+- type: marking
+  id: VSVulpPointsSharpArms
+  markingCategory: Arms
+  bodyPart: LArm
+  speciesRestriction: [ VSVulpkanin ]
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/body_markings.rsi
+      state: points_sharp-arms
+
+- type: marking
+  id: VSVulpPointsCrestLegs
+  markingCategory: Legs
+  bodyPart: LLeg
+  speciesRestriction: [ VSVulpkanin ]
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/body_markings.rsi
+      state: points_crest-legs
+
+- type: marking
+  id: VSVulpPointsFadeLegs
+  markingCategory: Legs
+  bodyPart: LLeg
+  speciesRestriction: [ VSVulpkanin ]
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/body_markings.rsi
+      state: points_fade-legs
+
+- type: marking
+  id: VSVulpPointsFeet
+  markingCategory: Legs
+  bodyPart: RFoot
+  speciesRestriction: [ VSVulpkanin ]
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/body_markings.rsi
+      state: points_feet
+
+- type: marking
+  id: VSVulpPointsSharpLegs
+  markingCategory: Legs
+  bodyPart: LLeg
+  speciesRestriction: [ VSVulpkanin ]
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/body_markings.rsi
+      state: points_sharp-legs

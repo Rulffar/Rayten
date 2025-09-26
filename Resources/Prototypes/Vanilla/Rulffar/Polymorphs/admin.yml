@@ -1,0 +1,8 @@
+﻿- type: polymorph
+  id: VSAdminVulpSmite
+  configuration:
+    entity: VSMobVulpkanin
+    forced: true
+    transferName: true
+    inventory: Transfer
+    ignoreAllowRepeatedMorphs: true

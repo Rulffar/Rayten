@@ -1,0 +1,115 @@
+
+# Ears Markings
+- type: marking
+  id: VSVulpEar
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [ VSVulpkanin ]
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/ear_markings.rsi
+      state: vulp
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/ear_markings.rsi
+      state: vulp-inner
+
+- type: marking
+  id: VSVulpEarSharp
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [ VSVulpkanin ]
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/ear_markings.rsi
+      state: vulp
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/ear_markings.rsi
+      state: vulp-sharp
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/ear_markings.rsi
+      state: vulp-inner
+
+- type: marking
+  id: VSVulpEarFade
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [ VSVulpkanin ]
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/ear_markings.rsi
+      state: vulp
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/ear_markings.rsi
+      state: vulp-fade
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/ear_markings.rsi
+      state: vulp-inner
+
+- type: marking
+  id: VSVulpEarJackal
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [ VSVulpkanin ]
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/ear_markings.rsi
+      state: jackal
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/ear_markings.rsi
+      state: jackal-inner
+
+- type: marking
+  id: VSVulpEarTerrier
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [ VSVulpkanin ]
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/ear_markings.rsi
+      state: terrier
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/ear_markings.rsi
+      state: terrier-inner
+
+- type: marking
+  id: VSVulpEarFennec
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [ VSVulpkanin ]
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/ear_markings.rsi
+      state: fennec
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/ear_markings.rsi
+      state: fennec-inner
+
+- type: marking
+  id: VSVulpEarFox
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [ VSVulpkanin ]
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/ear_markings.rsi
+      state: fox
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/ear_markings.rsi
+      state: fox-inner
+
+- type: marking
+  id: VSVulpEarOtie
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [ VSVulpkanin ]
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/ear_markings.rsi
+      state: otie
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/ear_markings.rsi
+      state: otie-inner
+
+- type: marking
+  id: VSVulpEarShock
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [ VSVulpkanin ]
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/ear_markings.rsi
+      state: shock
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/ear_markings.rsi
+      state: shock-inner
+
+- type: marking
+  id: VSVulpEarCoyote
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [ VSVulpkanin ]
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/ear_markings.rsi
+      state: coyote
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/ear_markings.rsi
+      state: coyote-inner

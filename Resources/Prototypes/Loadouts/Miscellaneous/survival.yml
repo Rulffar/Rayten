@@ -21,6 +21,7 @@
     - Vulpkanin
     - Trottine # Rayten
     - Skrell # Rayten
+    - VSVulpkanin # Rulffar
 
 - type: loadoutEffectGroup
   id: EffectSpeciesVox
@@ -81,6 +82,7 @@
     - Vulpkanin
     - Trottine # Rayten
     - Skrell # Rayten
+    - VSVulpkanin # Rulffar
 
 - type: loadoutEffectGroup
   id: OxygenBreatherMimeMoth

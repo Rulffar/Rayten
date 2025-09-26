@@ -1,0 +1,63 @@
+# Head Markings (Head)
+- type: marking
+  id: VSVulpHeadBlaze
+  bodyPart: Head
+  markingCategory: Head
+  speciesRestriction: [ VSVulpkanin ]
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/head_markings.rsi
+      state: blaze
+
+- type: marking
+  id: VSVulpHeadMask
+  bodyPart: Head
+  markingCategory: Head
+  speciesRestriction: [ VSVulpkanin ]
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/head_markings.rsi
+      state: mask
+
+- type: marking
+  id: VSVulpPatch
+  bodyPart: Head
+  markingCategory: Head
+  speciesRestriction: [ VSVulpkanin ]
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/head_markings.rsi
+      state: patch
+
+- type: marking
+  id: VSVulpSlash
+  bodyPart: Head
+  markingCategory: Head
+  speciesRestriction: [ VSVulpkanin ]
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/head_markings.rsi
+      state: slash
+
+- type: marking
+  id: VSVulpStripes1
+  bodyPart: Head
+  markingCategory: Head
+  speciesRestriction: [ VSVulpkanin ]
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/head_markings.rsi
+      state: tiger_face
+
+- type: marking
+  id: VSVulpStripes2
+  bodyPart: Head
+  markingCategory: Head
+  speciesRestriction: [ VSVulpkanin ]
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/head_markings.rsi
+      state: tiger_head
+
+- type: marking
+  id: VSVulpVulpine
+  bodyPart: Head
+  markingCategory: Head
+  speciesRestriction: [ VSVulpkanin ]
+  sprites:
+    - sprite: Vanilla/Mobs/Customization/Vulpkanin/head_markings.rsi
+      state: vulpine

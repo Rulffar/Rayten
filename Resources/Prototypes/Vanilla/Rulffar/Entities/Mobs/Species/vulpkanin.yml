@@ -1,0 +1,77 @@
+﻿- type: entity
+  abstract: true
+  save: false
+  parent: [BaseMobSpeciesOrganic]
+  id: VSBaseMobVulpkanin
+  name: Fuchswolfische Mann
+  components:
+  - type: Hunger
+  - type: Thirst
+  - type: Icon
+    sprite: Vanilla/Mobs/Species/Vulpkanin/parts.rsi
+    state: full
+  - type: Body
+    prototype: VSVulpkanin
+  - type: Speech
+    speechSounds: Vulpkanin
+    speechVerb: Vulpkanin
+    allowedEmotes: [ 'Bark', 'Snarl', 'Whine', 'Howl', 'Growl' ]
+  - type: Vocal
+    sounds:
+      Male: MaleVulpkanin
+      Female: FemaleVulpkanin
+      Unsexed: MaleVulpkanin
+  - type: Damageable
+    damageModifierSet: VSVulpkanin
+  - type: MeleeWeapon
+    soundHit:
+      path: /Audio/Weapons/pierce.ogg
+    animation: WeaponArcClaw
+    damage:
+      types:
+        Piercing: 2
+        Slash: 4
+  - type: Temperature # Same as moth temperatures until below is solved.
+    heatDamageThreshold: 320 # TODO: 315 when there is a way to make the temperature alert not blink to the side of the screen and disappear when you "sweat" at 39C.
+    coldDamageThreshold: 230 # TODO: 220 when the above is solved.
+    specificHeat: 44
+    coldDamage:
+      types:
+        Cold: 0.05 # Per second, scales with temperature & other constants
+    heatDamage:
+      types:
+        Heat: 2.5 # Per second, scales with temperature & other constants
+  # - type: Wagging TODO: Add back once we have animated tails again. Were removed due to the sprite rework, causing all of them to not fit anymore.
+  #   action: ActionToggleWaggingVulpkanin
+  - type: TemperatureProtection
+    heatingCoefficient: 1.2
+    coolingCoefficient: 0.3
+  - type: JumpAbility
+    action: ActionVulpkaninGravityJump
+    canCollide: true
+    jumpDistance: 3
+    jumpSound:
+      path: /Audio/Weapons/punchmiss.ogg
+      params:
+        pitch: 1.33
+        volume: -5
+        variation: 0.05
+  - type: HumanoidAppearance
+    species: VSVulpkanin
+    undergarmentTop: UndergarmentTopTanktop
+    undergarmentBottom: UndergarmentBottomBoxers
+  - type: NightVision
+  - type: PointLight
+    radius: 9
+    energy: 1.5
+    color: "#869e9c"
+    enabled: false
+    netsync: false
+  - type: MovementSpeedModifier
+    baseWalkSpeed: 3
+    baseSprintSpeed: 5
+
+- type: entity
+  parent: [BaseSpeciesDummy]
+  id: VSMobVulpkaninDummy
+  categories: [ HideSpawnMenu ]
